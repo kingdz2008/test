@@ -256,15 +256,17 @@ HEAD、master、refs/heads/master具有相同的指向
 如果需要丢弃里程碑A之前的历史，可以基于里程碑A对应的提交构造一个根提交（即没有父提交的提交），然后将master分支在里程碑A之后的提交变基到新的提交上，实现对历史提交的清除。
 
 由里程碑A构造一个根提交至少有两种方法。
-> 
+
+第一种
+
 	* 查看里程碑A指向的目录树  
 	  `git cat-file -p A^{tree}`
 	* 从该目录树创建提交  
 	  `echo "Commit from tree of tag A." | git commit-tree A^{tree}`
 	* 上面命令输出是一个提交的SHA1值，查看这个提交会发现这个提交没有历史提交。  
 	  `git log --pretty=raw 8f7f94b`
-##
->
+第二种
+
 	* 查看里程碑A指向的提交
 	  `git cat-file commit A^0`
 	* 将上面的输出过滤掉以parent开头的行，并将结果保存到一个文件中  
