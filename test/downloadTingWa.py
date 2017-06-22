@@ -18,7 +18,7 @@ def download(title,post,url):
         f.write(music)
 
 def download_mai():
-    start = 439
+    start = 528
     baseUrl = "http://www.itingwa.com/listen/"
 
     while True:
@@ -39,6 +39,7 @@ def download_mai():
         a = html.find("<h1>", a) + 4
         b = html.find("<a href", a)
         title = str(start) + " - " + html[a:b].strip()
+        title = title.replace('*','-')
         print(title)
 
         a = html.find("<div id=\"tw_player\"", b)
@@ -53,7 +54,7 @@ def download_mai():
         try:
             download(title,post,downUrl)
             print("begin to sleep")
-            time.sleep(5)
+            time.sleep(2)
         except ConnectionResetError:
             start = start - 1
 
