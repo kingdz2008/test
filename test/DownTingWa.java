@@ -1,4 +1,4 @@
-import java.io.File;
+﻿import java.io.File;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
@@ -12,7 +12,7 @@ import org.apache.commons.httpclient.params.HttpMethodParams;
 public class DownTingWa {
 
 	public static void main(String[] args) {
-		int start = 24050;
+		int start = 26329;
 		int mark = 0;
 		String baseUrl = "http://www.itingwa.com/listen/";
 
