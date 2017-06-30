@@ -12,7 +12,7 @@ import org.apache.commons.httpclient.params.HttpMethodParams;
 public class DownTingWa {
 
 	public static void main(String[] args) {
-		int start = 40549-81870;
+		int start = 40549-86606;
 		int mark = 0;
 		String baseUrl = "http://www.itingwa.com/listen/";
 
