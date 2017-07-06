@@ -1,252 +1,538 @@
-3505251   |ChilloutLosingGround                              |     |
-3505253   |心动只要一瞬间心碎也只一转眼                                    |     |
-3505254   |BurnFast(BrnsRemix)                               |     |
-3505255   |Chemistry(ft.ClaraMae)                            |     |
-3505256   |翼                                                 |     |
-3505257   |法语小情绪hello                                        |     |
-3505260   |尘埃落定111                                           |     |
-3505261   |NoriuV&amp279l                                    |     |
-3505262   |于文文莲电视剧幻城插曲莲姬角色歌曲                                 |     |
-3505263   |薔薇太陽                                              |     |
-3505264   |TryEverything                                     |     |
-3505265   |AngelOfTheMorning                                 |     |
-3505266   |你是新娘我是和尚                                          |     |
-3505267   |绘好中华                                              |     |
-3505268   |ProgressiveHouseLuminescent(OriginalMix)          |     |
-3505269   |苏宁                                                |     |
-3505270   |懂你的人会为你放下架子不懂你的人维持了僵局失望的只有你自己                     |     |
-3505271   |一样的声音不一样的周婕纶                                      |     |
-3505272   |爱情废材女声                                            |     |
-3505273   |jTzHHw6tpg6M.128                                  |     |
-3505275   |你还要我怎样翻唱                                          |     |
-3505276   |没有离开过合唱                                           |     |
-3505277   |赵丽颖心念电视剧胭脂主题曲                                     |     |
-3505278   |羡慕的独角戏铃声版                                         |     |
-3505279   |不告诉你哟i哈哈哈                                         |     |
-3505280   |我也不想这样                                            |     |
-3505281   |归来满江                                              |     |
-3505282   |GDFR                                              |     |
-3505283   |DrinkOverYou                                      |     |
-3505284   |片经典背景音乐                                           |     |
-3505285   |你好不好                                              |     |
-3505286   |22JumpStreet                                      |     |
-3505287   |LiveForever                                       |     |
-3505288   |Ajtkm&amp246g&amp246tt                            |     |
-3505289   |Atlantis                                          |     |
-3505290   |ProgressiveHouseOceanpoint(Originalmix)           |     |
-3505291   |perfectxstyle                                     |     |
-3505292   |Anchor(Remix)                                     |     |
-3505293   |一颗会开花的树                                           |     |
-3505294   |电子民族乐器Air                                         |     |
-3505295   |给你们楠哥婚礼版                                          |     |
-3505297   |RunFromYourLove                                   |     |
-3505298   |冷雨夜                                               |     |
-3505300   |如斯                                                |     |
-3505301   |全世界谁倾听你                                           |     |
-3505302   |墨色声弦冷艳寒雪江梅妃                                       |     |
-3505303   |ProgressiveHouseFeelAgain(OriginalMix)            |     |
-3505304   |SkyFullOfStar(Synteticsax&ampRayRemake)           |     |
-3505305   |花间梦事                                              |     |
-3505306   |我爱你                                               |     |
-3505307   |我爱你                                               |     |
-3505308   |Fly(DarundaraExtendedMix)                         |     |
-3505309   |Jupiter.                                          |     |
-3505310   |萨菲丁                                               |     |
-3505311   |UHAHSalsaChoke                                    |     |
-3505313   |WeDontTalkAnymoreILoveUIHateU                     |     |
-3505314   |Daylight                                          |     |
-3505315   |Silhouette(OriginalMix)                           |     |
-3505316   |青衣谣                                               |     |
-3505317   |我可以忘记你                                            |     |
-3505318   |RockYou                                           |     |
-3505319   |开口即醉的粤语情歌对唱简直不要太好听                                |     |
-3505320   |致姗姗来迟的你                                           |     |
-3505321   |308劈腿                                             |     |
-3505322   |城市水太深我要回农村                                        |     |
-3505323   |dozhd(yashagaupomoskve)                           |     |
-3505324   |AlmostLover                                       |     |
-3505325   |ProgressiveHouseReflections(LeshRemix)            |     |
-3505326   |菩萨的微笑                                             |     |
-3505327   |喜欢的轻节奏送给那些温暖你的人                                   |     |
-3505328   |Blame                                             |     |
-3505329   |全世界谁倾听你                                           |     |
-3505330   |孤雏                                                |     |
-3505331   |Unstoppable                                       |     |
-3505332   |兄弟在草原                                             |     |
-3505333   |超好听的日系暖心希望你们能喜欢                                   |     |
-3505334   |ProgressiveHouseSapphire(Originalmix)             |     |
-3505335   |ProgressiveHouseEntiOmri(OriginalMix)             |     |
-3505336   |ProgressiveHouseAcabanera(OriginalMix)            |     |
-3505337   |Untitled                                          |     |
-3505338   |OurStory                                          |     |
-3505339   |v3                                                |     |
-3505340   |Monstaa                                           |     |
-3505341   |IAmHungry                                         |     |
-3505342   |好听的英文歌无限单曲循环                                      |     |
-3505343   |一直存在我脑海里的旋律懂我的人何必解释                               |     |
-3505344   |InMyDreams(Zetandelremix)                         |     |
-3505345   |甘心替代你                                             |     |
-3505346   |SublimeWeakness                                   |     |
-3505347   |伤感中文DJ男人主打必备                                      |     |
-3505348   |歩                                                 |     |
-3505349   |3453453232DDD                                     |     |
-3505350   |我的陕北我的梦                                           |     |
-3505351   |MysticTide                                        |     |
-3505352   |Nevada(OriginalMix)                               |     |
-3505353   |ThisGirl                                          |     |
-3505354   |烤烤烤                                               |     |
-3505355   |请你们分享歌也直接发名字plana                                 |     |
-3505356   |ProgressiveHouseBreeze(OriginalMix)               |     |
-3505357   |ProgressiveHouseCastingShadows(OriginalMix)       |     |
-3505360   |MEDUZZA我搜了ST暂时还没发现这首歌32秒开始辣耳朵                     |     |
-3505361   |不经不觉                                              |     |
-3505362   |清辞幽韵旧时星辰旧时光                                       |     |
-3505363   |大气磅礴首推震撼                                          |     |
-3505364   |CakeByTheOcean听是在秀场大节凑感                           |     |
-3505365   |Dontwannaknow                                     |     |
-3505366   |CariPokemon                                       |     |
-3505367   |CoolKids                                          |     |
-3505368   |蓝瘦香菇还是想回来看看或许都没人了吧                                |     |
-3505369   |都是我的错                                             |     |
-3505370   |摄影人之歌                                             |     |
-3505371   |幸福之州                                              |     |
-3505372   |动不动说爱                                             |     |
-3505373   |若不是因为你                                            |     |
-3505374   |Raindrop                                          |     |
-3505375   |人海(2015版)                                         |     |
-3505376   |半句再见                                              |     |
-3505377   |陪哭八音盒                                             |     |
-3505378   |如来神掌                                              |     |
-3505379   |只是没有如果                                            |     |
-3505380   |UntilYou直到遇见你                                     |     |
-3505381   |IDontWantToSayGoodbye我不想说再见                       |     |
-3505384   |爱情的路口                                             |     |
-3505385   |月老的                                               |     |
-3505386   |浮影水城                                              |     |
-3505387   |SixFeetUnder                                      |     |
-3505388   |我愿意sl                                             |     |
-3505389   |雯文回来啦就不走了                                         |     |
-3505390   |人海燕池                                              |     |
-3505391   |一世芳华杨泉                                            |     |
-3505392   |魂萦旧梦	雪莉                                           |     |
-3505393   |一场内心戏                                             |     |
-3505394   |诱惑的街林忆莲                                           |     |
-3505395   |逆流成河金南玲                                           |     |
-3505396   |你还要我怎样翻唱                                          |     |
-3505397   |你还要我怎样谭艳                                          |     |
-3505398   |夜空中最亮的星邓紫棋                                        |     |
-3505399   |夜空中最亮的星翻唱                                         |     |
-3505400   |沧桑情歌                                              |     |
-3505401   |ProgressiveHouseColoursofLife(OriginalMix)        |     |
-3505402   |ProgressiveHouseTheEchooftheMountains(OriginalMix)|     |
-3505403   |因为ST才有我们回家把回家了段乔                                  |     |
-3505407   |清明上河图翻唱                                           |     |
-3505408   |晚上的                                               |     |
-3505409   |EasyStreet                                        |     |
-3505410   |ProgressiveHouseSummerLove(MekaoRemix)            |     |
-3505411   |ProgressiveHouseStaringAtInfinity(OriginalMix)    |     |
-3505413   |ChilloutHereForTheRush(Moonnightremix)            |     |
-3505414   |最忆江南                                              |     |
-3505415   |走近你                                               |     |
-3505416   |咱老百姓                                              |     |
-3505417   |当你孤单你会想起谁                                         |     |
-3505418   |回廊                                                |     |
-3505419   |爱情日记抵住长久的流年                                       |     |
-3505420   |无论怎样我都不会放弃ST                                      |     |
-3505422   |刘孟哲爱在茜廉                                           |     |
-3505423   |刘子毅想你的时候我最孤单                                      |     |
-3505424   |龙长生kevinchangshenglong                            |     |
-3505425   |周展翅山寨大王                                           |     |
-3505426   |Shelter(XeuphoriaPianoCover)                      |     |
-3505427   |TheJourney                                        |     |
-3505428   |Gratitude                                         |     |
-3505429   |全程无停顿无喘气此歌需要开大你的音量                                |     |
-3505430   |开心时有你失恋时有你游戏时有你好多好多起码要在一起嘛                        |     |
-3505431   |小语种印尼歌曲                                           |     |
-3505433   |ProgressiveHouseThatSpecialPlaceInTime(OriginalMix)|     |
-3505434   |飙车党福音一首节奏感超强的歌不解释自己用你那颗小心脏去领会吧                    |     |
-3505435   |曾经的最爱                                             |     |
-3505436   |GoodnightMoon(DiPapRemix)                         |     |
-3505437   |OneLove                                           |     |
-3505438   |EvigtFiskande(OriginalMix)                        |     |
-3505439   |YourBodyIsAWonderland                             |     |
-3505440   |青衣谣伴奏                                             |     |
-3505441   |NewDays                                           |     |
-3505442   |WhisperingStill(LittleRoseRemix)                  |     |
-3505443   |BackInTheSummer                                   |     |
-3505444   |RunningAway                                       |     |
-3505445   |Time                                              |     |
-3505446   |TheAir                                            |     |
-3505446   |TheAir                                            |     |
-3505447   |ProgressiveHouseAlternativeLights(OriginalMix)    |     |
-3505448   |很好听的一首韩文小调                                        |     |
-3505449   |yours                                             |     |
-3505450   |Transparent                                       |     |
-3505451   |可惜没如果                                             |     |
-3505452   |Wave                                              |     |
-3505453   |DXY                                               |     |
-3505454   |十六年前她是超级明星谁知道十六年后依然是一首一边哭一边起舞的歌                   |DY=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDQyNDY=
-3505455   |火了草原火了爱                                           |Dc=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDQyNDc=
-3505456   |ProgressiveHouseOceanWaves(OriginalMix)           |     |
-3505458   |ProgressiveHouseHothamSunrise(OriginalMix)        |     |
-3505459   |ProgressiveHouseCarpeDiem(OriginalMix)            |     |
-3505460   |ProgressiveHouseSeptember(OriginalMix)            |     |
-3505461   |Yank&amp305.                                      |Dg=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDQyNDg=
-3505464   |丨甜美闽南语女声全身酥了                                      |Dk=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDQyNDk=
-3505465   |兄弟仗义                                              |TA=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDQyNTA=
-3505466   |请你来喀什                                             |TE=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDQyNTE=
-3505467   |我的琴声                                              |TI=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDQyNTI=
-3505468   |有你不会老                                             |TM=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDQyNTM=
-3505469   |喀什噶尔我的家                                           |TQ=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDQyNTQ=
-3505470   |if                                                |TU=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDQyNTU=
-3505471   |百度songtaste吧请收下我的膝盖                               |TY=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDQyNTY=
-3505472   |ProgressiveHouse1000SunsLeft(RoaldVeldenRemix)    |     |
-3505473   |ProgressiveHouseCoastline(OriginalMix)            |     |
-3505474   |ProgressiveHouseHerGaze(KevinHoldeenParadiseRemix)|Tc=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDQyNTc=
-3505475   |ProgressiveHouseHerGaze(VinceForwardsRemix)       |Tg=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDQyNTg=
-3505476   |ProgressiveHouseHerGaze(MacramseyRemix)           |Tk=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDQyNTk=
-3505477   |ProgressiveHouseHerGaze(OriginalMix)              |     |
-3505489   |外文舞曲130                                           |zI=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxNzI=
-3505490   |外文舞曲147                                           |zM=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxNzM=
-3505491   |外文舞曲166                                           |zQ=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxNzQ=
-3505492   |外文舞曲177                                           |DI=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxNDI=
-3505495   |外文舞曲174                                           |DM=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxNDM=
-3505496   |外文舞曲172                                           |DQ=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxNDQ=
-3505497   |外文舞曲133                                           |jI=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDQyNjI=
-3505498   |外文舞曲134                                           |DQ=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDExMDQ=
-3505499   |外文舞曲167                                           |zU=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMzU=
-3505500   |外文舞曲52                                            |DU=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDExMDU=
-3505501   |又一个版本的Na Na Na                                    |DY=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDExMDY=
-3505502   |Nightqueen(Original Edit)节奏欢快海豚音循环了N遍             |zY=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMzY=
-3505503   |许科-飞·致我们的星辰大海(完整版)                                |DA=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMDA=
-3505504   |-祝你快乐-                                            |m4a  |https://niu.aekun.com/3505504_DB5F3FAE70782C298E3D43348384BD2A.m4a
-3505505   |只要有你陪在我身边DJ                                       |zc=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMzc=
-3505506   |南山南 抖腿小清新版                                        |TU=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMTU=
-3505507   |外文舞曲88                                            |TY=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMTY=
-3505508   |刚好遇见你                                             |Tc=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMTc=
-3505509   |最后的莫西干人                                           |Tg=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMTg=
-3505510   |天真有邪                                              |     |
-3505511   |Droemmepige                                       |Tk=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMTk=
-3505512   |节奏至上~                                             |jA=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMjA=
-3505513   |酒吧私藏~要的就是这种感觉                                     |MP3  |https://niu.aekun.com/3505513_F796E1B8966B0F374A1915D4BBB7216A.MP3
-3505514   |BoBoMe独家私藏-激情一触即发                                 |jI=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMjI=
-3505515   |ghdfgdrg                                          |jM=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMjM=
-3505516   |house music 09震撼开场曲                               |DE=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMDE=
-3505517   |320音质电音-个人私藏未推的曲子 全天循环-huhuo                      |DI=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMDI=
-3505518   |很舒服的一首慢摇 请耐心听到44秒 (夜店魅音站长提供)-huhuo                |DM=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMDM=
-3505519   |FARZAM - Zen                                      |DQ=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMDQ=
-3505520   |飙车党福音一首节奏感超强的歌   不解释自己用你那颗小心脏去领会吧-huhuo           |DU=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMDU=
-3505521   |Zetandel–Two by the Seaside (Original Mix)        |DY=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMDY=
-3505522   |Tali Muss feat. Esphyr-Breeze (Original Mix)      |Dc=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMDc=
-3505523   |吝啬的你丨我何必把歌名摆出来灬-Let me go 最近一直在循环的歌曲 车载必备-huhuo   |Dg=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMDAxMDg=
-3505524   |已不在已不再                                            |MP3  |https://niu.aekun.com/3505524_A456C246D390DBDC5E136B5CF716D050.MP3
-3505525   |极品飞车经典~速度与激情的碰撞                                   |MP3  |https://niu.aekun.com/3505525_F6B9B571823844FA2719F00CB0A094E6.MP3
-3505526   |DJ私藏NO1~这一秒开始引爆全场’                                |TA=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMTQ2MTA=
-3505527   |配乐HERO A                                          |MP3  |https://niu.aekun.com/3505527_D41D8CD98F00B204E9800998ECF8427E.MP3
-3505528   |E l'Alba Verrà                                    |MP3  |https://niu.aekun.com/3505528_7BB78C2480D6AC158C6FD4A4CABB53E2.MP3
-3505529   |GOING DOWN JARQUIN & CANO REMIX                   |jE=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwNTIyMjE=
-3505530   |GARNiDELiA (极乐净土) - 極楽浄土                          |Dg=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMzg1MDg=
-3505531   |?? (Henry) - Trap (陷阱) (Japan Version)            |Dk=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMzg1MDk=
-3505532   |Music Factory - Call Me Maybe                     |TA=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwMzg1MTA=
-3505533   |EverythingEveryday  依然不忘                          |zY=  |https://res.wx.qq.com/voice/getvoice?mediaid=MzIwNDU3NDg1M18xMDAwNDAxNzY=
-3505534   |Tony Igy-M E D U Z Z A 我搜了ST暂时还没发现这首歌  32秒开始辣耳朵   |     |
+3505969   |treasure . 很多人在找的余枫版treasure，高音质经典回顾              |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDMwMjU=
+3505970   |苹果耳机广告曲                                           |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDMwMjQ=
+3505971   |Love Mail . 区别出来了吗？国内也有高手                         |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDMwMjM=
+3505972   |我的青春虽败犹荣                                          |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDMwMjI=
+3505973   |写一封情书，送给我自己，感动的要哭                                 |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NTk=
+3505974   |-  Ｈip hop 全选改版 Jason Mraz I m Yours 听完心情会变好﹏     |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NTg=
+3505975   |Songtaste-不听它..你的机器里将会失去一首好歌                      |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NTc=
+3505976   |Songtaste-中午很适合听的歌,                               |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NTY=
+3505977   |-不论何时何地  绝对赞歌                                     |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NTU=
+3505978   |-捂好心脏 这个是干货 哈哈 是不是心脏很闷呢                           |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NTQ=
+3505979   |-See You Wrong Ｒ Ｂ从头到尾                            |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NTM=
+3505980   |-Muse  Time is running out节奏和鼓点实在                 |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NTI=
+3505981   |-＜ 小公主 ＞  耐人寻味  醉人旋律  节奏疗伤                        |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NTE=
+3505982   |-＜ 小公主 ＞ 考试什么的都去死吧                                |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NTA=
+3505983   |苏格兰 风笛   丶纯音乐                                     |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NDk=
+3505984   | Vise Fenesin    o( v ) 繾 綣                       |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NDg=
+3505985   |-   Quot D U B S T E P quot  Libertango           |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NDc=
+3505986   |-   这首歌让我循环一整天  喜欢的朋友不要错过  stand up               |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NDY=
+3505987   |-  ＜ 电音 dubstep ＞  Time                           |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NDU=
+3505988   |-  Breaking My Heart     慵懒舒服的女声                  |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NDQ=
+3505989   |Purple Disco Machine - Street Life                |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NzE=
+3505990   |失眠，就听这首                                           |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NzA=
+3505991   |SongTaste原创歌手赞lan                                 |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3Njk=
+3505992   |SongTaste - 赞lan -Childhood                       |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3Njg=
+3505993   |现在这个版本好像都没有了                                      |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3Njc=
+3505994   |Believe . 舒缓的节奏只想慢慢享受                             |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NjY=
+3505995   |What's Your Story . 女生一开嗓就再也不愿放弃这声音了              |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NjU=
+3505996   |You make my nights . 踩着轻快的节奏轻摆起来                  |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NjQ=
+3505997   |黎明的曙光                                             |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NjM=
+3505998   |文殊大威德金刚中阴解脱祈祷文（佛教音乐）Faith                         |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NjI=
+3505999   |（马头琴-经典）美丽的草原我的家 -- 纯音乐 ！                         |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NjE=
+3506000   |Pick You Up . 完全无法抵抗“啊”与“嘣”之间的交替呼应                |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM4MDc=
+3506001   |Don't Forget About Me . 细腻男声、真假声变换游刃有余            |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM4MDY=
+3506002   |Freedom . 绝不是那种吵闹的节奏佳曲                            |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM4MDU=
+3506003   |Birthday . 爽朗的声线舒缓的节奏                             |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM4MDQ=
+3506004   |Boy Don't Cry . 反正第一次就喜欢上你了                       |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM4MDM=
+3506005   |Por el Momento . 小语种往往是超爱的节奏                      |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM4MDI=
+3506006   |灰姑娘高合金钢                                           |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM4MDE=
+3506007   |静静的欣赏，美醉的音乐                                       |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM4MDA=
+3506008   |罗马尼亚男女美到醉的合唱                                      |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3OTk=
+3506009   |迷幻男声秒杀听觉                                          |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3OTg=
+3506010   |节奏君驾到！                                            |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3OTc=
+3506011   |- 听 来 听 去 都 昰 改 手 改 手                             |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3OTI=
+3506012   |-  苏荷超赞口哨开场丶一起来寻找好心情丶Cai verzi pe pereti )        |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3OTE=
+3506013   | 重 点 推 荐  ヽ  极 品 女 唱ヽ                             |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3OTA=
+3506014   |Bambadang . 果断收入曲库，欢快的节奏、醒脑神曲                     |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3ODk=
+3506015   |Just Wanna Be With You . 海风初起，牵着你的手走在阳光沙滩         |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3ODg=
+3506016   |Take That - New Day . 阳光男孩唤醒你全新的一天                |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3ODc=
+3506017   |印象（女生吉他自弹唱）. 每次耳朵只能被你俘虏                           |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3ODY=
+3506018   |活泼的节奏女声                                           |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3ODU=
+3506019   |ST淘来的歌，好听才分享。                                     |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3ODQ=
+3506020   |虚幻 飘渺的旋律                                          |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3ODM=
+3506029   |不多说经典                                             |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NzQ=
+3506030   |不一样的Where'd You Go                                |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NzM=
+3506031   |Don't Know Much . 珍藏天籁系列精选第一弹                     |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3OTY=
+3506032   |Never Say Goodbye . 珍藏天籁系列精选第二弹                   |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3OTU=
+3506033   |Abhainn An T-Sluaigh . 珍藏天籁系列精选第三弹                |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3OTQ=
+3506034   |La Paloma . 珍藏天籁系列精选第四弹                           |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3OTM=
+3506035   |罗马尼亚极品电音，舒服的节奏                                    |mp3  |http://core.aekun.com/upload/6BC7088CF6D6F9838D93950EB4A52D22.mp3
+3506036   |极品节奏小语，送给所有的伙伴们                                   |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM4MTQ=
+3506037   |抒情男声Valder Fields                                 |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM4MTM=
+3506038   |啊 . 啊 . 啊 .  ......alright                        |mp3  |http://core.aekun.com/upload/1BB541A67C8EAA380409B5159BB761D4.mp3
+3506039   |-  Hours   烟熏嗓音 温暖治愈的女声                           |mp3  |http://core.aekun.com/upload/9D7CBE2A5E5000232EDA718F4FAAD439.mp3
+3506040   |-  Ｍy Ｅnglish                 献一首中国风让中国强些         |mp3  |http://core.aekun.com/upload/187160305675C29F1B359355F243FA5B.mp3
+3506041   |-  Sister Sara   吉他前奏秒杀 慵懒随意的女声                   |mp3  |http://core.aekun.com/upload/11AE567D43E8AE1D0FD661AE7678A62F.mp3
+3506042   |-  Stargazer   复古女声 美丽前奏 灵魂爵士嗓音                   |mp3  |http://core.aekun.com/upload/CD0703D453AEEE9721C717C61352F615.mp3
+3506043   |-  Time   小资慵懒女声 只闻花香 不谈悲喜                        |mp3  |http://core.aekun.com/upload/A40B7F7AD93F0C1B7989729DA8B5B194.mp3
+3506044   |-  Time Rolls On By   to Dear Mr Radish-如阳光般温暖的歌- |mp3  |http://core.aekun.com/upload/B33C2FBD0A1256CAE923706746EB2198.mp3
+3506045   |-  纯音乐   ﹏ Tease Me  吉他节奏                         |mp3  |http://core.aekun.com/upload/F61482576AADDDA95EBDF2AAF138AB22.mp3
+3506046   |-  感觉这首歌会有很多人喜欢                                   |mp3  |http://core.aekun.com/upload/8897C45ACA2BCED64ADA21F3439998A2.mp3
+3506047   |-  罕见的波斯慢摇丶飘渺的吟唱 舒心的节奏完美组合 巴格达女巫丶                 |mp3  |http://core.aekun.com/upload/049ECA72B91C28FB2872D89E7C46BC79.mp3
+3506048   |中毒的节奏循环lady(say hey)                              |mp3  |http://core.aekun.com/upload/051CDA7490EFEB242F65CB2C39DC0421.mp3
+3506049   |美到醉的电音女唱                                          |mp3  |http://core.aekun.com/upload/04757B1773C7FFE39032E2A654428FF2.mp3
+3506050   |钢琴+节奏=嗨                                           |mp3  |http://core.aekun.com/upload/98DB2EF599D401C205833C3DF12C42D2.mp3
+3506051   |两个人的回忆一个人过 . 互相转告：今日起平台全音质上传，音质全所未有的清晰！           |mp3  |http://core.aekun.com/upload/95EEFC3DCDCEE93264382E13BB33B9DC.mp3
+3506052   |Game of Thrones Medley . 平台音质涅槃重生，可以来听听有品味的小提琴大师的最新力作了！|mp3  |http://core.aekun.com/upload/F45761BF2FA052BCC882C96A8B1116B5.mp3
+3506053   |Hands . 平台音质大幅提升，好可惜以前推了那么多好歌                     |mp3  |http://core.aekun.com/upload/938E21EE1B365F5060D7D59DC5D94AFF.mp3
+3506054   |Perfect . 平台不再压缩音质，不好再错过高音质的音乐啦！                  |mp3  |http://core.aekun.com/upload/D33E91C08066AE1B91485DA39B4E7B28.mp3
+3506055   |Run to You . 平台好音质正奔向你！女生大气女声把我感动到哭。。。            |mp3  |http://core.aekun.com/upload/72B4084CBE8EEC92C5710596B3CF1458.mp3
+3506056   |You Don't Know Me . 只有这样的音质听了才够爽！！！               |mp3  |http://core.aekun.com/upload/69E2ECA500B3FF3D198066413E7277F1.mp3
+3506057   |醉人电音 - OMFG - Mashed Potatoes                     |mp3  |http://core.aekun.com/upload/BECDB54AA822DE83FD42F014F655939D.mp3
+3506058   |新歌好听銆愮嫭瀹朵覆涓茬儳銆慍c.K_Gentlemans_-_6_little_eggs[By_DjBonny娉2015_Mix]|mp3  |http://core.aekun.com/upload/AD5450633C5273A56053C07A638F9A19.mp3
+3506059   |意大利 mariangela-ninna nanna(657580890)             |mp3  |http://core.aekun.com/upload/4BE7A46163A7012E3EC87F4ACC9C9695.mp3
+3506060   |Ola Svensson                                      |mp3  |http://core.aekun.com/upload/B347A012AC4FAF17F9B894B7FED264B6.mp3
+3506061   |Make the girl dance - Baby Baby Baby              |mp3  |http://core.aekun.com/upload/9CD432930D8B392E656AA145B6C46E84.mp3
+3506062   |02 - Bounce (Radio Edit)                          |mp3  |http://core.aekun.com/upload/7BF9CC1730CDA9F75042A2EFB8997266.mp3
+3506063   |曾经的怀念                                             |mp3  |http://core.aekun.com/upload/E0539533036A012197F4EFC6E08FCA44.mp3
+3506064   |炫音销魂女声                                            |mp3  |http://core.aekun.com/upload/C9C1C0A57D7081C0C3A849553051461A.mp3
+3506065   |Delia 1234 (Unde dragoste nu e)                   |mp3  |http://core.aekun.com/upload/9A794B2090697A5F2A744CEC0E4BC7A8.mp3
+3506066   |Alya - Sexy Mama (1)                              |mp3  |http://core.aekun.com/upload/C7B8F31D197D095A2222C753A3685464.mp3
+3506067   |慢摇舞曲 - 甜美女声勾引你的耳朵                                 |mp3  |http://core.aekun.com/upload/B2105CA373796A10A3957F4E9884DF2A.mp3
+3506068   |EXID - ?? (Ah Yeah)                               |mp3  |http://core.aekun.com/upload/EC71803D0D7ED3108967529487481764.mp3
+3506069   |N&N - Mani Beats                                  |mp3  |http://core.aekun.com/upload/1E290F9F2F459C2450EAF05F4DDD6880.mp3
+3506070   |The Cataracs、DEV - Top of the World               |mp3  |http://core.aekun.com/upload/71140B208C5F378DD40DE6A0A0A61BF8.mp3
+3506071   |-＜ 神曲音律 第一秒被吸引的极品曲子 ＞ Everything                  |mp3  |http://core.aekun.com/upload/6BE519D10CDB91A42A70E7ECAD87C7E8.mp3
+3506072   |I Got Last In His Arms . 周末快乐！安静地听首歌吧！            |mp3  |http://core.aekun.com/upload/D15663649B81CE8060D2B0A2882799B4.mp3
+3506073   |-＜重 磅 车 载 电 音 系 列＞   (旋律依旧怀念)children             |mp3  |http://core.aekun.com/upload/151F56A12E09490EE2AC55C0FBBE733B.mp3
+3506074   |-＞    开 着 炮    听 这 歌 爽 啊ヽ                         |mp3  |http://core.aekun.com/upload/A13D362C51F281868ECDDD01416BAA41.mp3
+3506075   |-< If you feel my love                            |mp3  |http://core.aekun.com/upload/E4968332B7FCC88A9C02AAC90ECD4E58.mp3
+3506076   |今年冬天没有雪                                           |mp3  |http://core.aekun.com/upload/6A10B8A23CB6E2FABCEEB8AD2B0278DC.mp3
+3506077   |今年冬天没下雪                                           |mp3  |http://core.aekun.com/upload/2EDB554BDB9F814677DB708A96FEFC9A.mp3
+3506078   |Down By The Sally Garden . 清泉般清澈的嗓音，经典风笛再现，似乎有点《勇敢的心》中配乐的意境！|mp3  |http://core.aekun.com/upload/B9B353E14AF0830C654DD7F60A3698EE.mp3
+3506079   |大气女声，小语极品                                         |mp3  |http://core.aekun.com/upload/2CF4475A24AFD0F5954DFEC72CB34185.mp3
+3506080   |Ready For The Time To Get Better . 轻快甜嗓祝平台越来越好！   |mp3  |http://core.aekun.com/upload/C2EF0E6E7899A3013B1277086A08331B.mp3
+3506081   |【难忘的一天】迪玛希·库达依别列根（Dimash Kudaibergen）             |mp3  |http://core.aekun.com/upload/951A33B9B7E32FC3AC1030ED48685958.mp3
+3506082   |节奏完美的童声（私藏）                                       |mp3  |http://core.aekun.com/upload/436A0894A36149B79816DBBEA1F5A2BE.mp3
+3506083   |ELLE - What Iv'e Gotta Do                         |mp3  |http://core.aekun.com/upload/3C5309A40084DE42EDAB29EF7327FB9E.mp3
+3506084   |【有完没完】铁竹堂之PLAYZ\MC Hotdog                         |mp3  |http://core.aekun.com/upload/FD663215CACD01F8C2F5F2DA81A3C77A.mp3
+3506085   |Sweet Dreams . 我震惊了！这尽然是纯人声伴奏的“阿尔贝拉”音乐            |mp3  |http://core.aekun.com/upload/D29DBCD8B03E0195EEB79655EAD9F265.mp3
+3506086   |Misfit Dior - Miss America                        |mp3  |http://core.aekun.com/upload/0A6B351149D7D4C1E04D5F6D6AC4DEA9.mp3
+3506087   |I Sing You Sing . 再推纯人声伴奏“阿卡贝拉”精品                 |mp3  |http://core.aekun.com/upload/1F6009D8F9B109D11883452FA9C30B0A.mp3
+3506088   |【药】张晓茹、动情中文歌啦啦啦                                   |mp3  |http://core.aekun.com/upload/721C38DB1AE82E304FB87CF573DBCE82.mp3
+3506089   |Ethernity - Desires (Extended Version)            |mp3  |http://core.aekun.com/upload/33050DBCF76985CC8ACC93891DB4B97F.mp3
+3506090   |【Distance】杀手锏KillerSoap             .国内难得优质乐团     |mp3  |http://core.aekun.com/upload/B1E2EC6264B69423B709005D265DA7D0.mp3
+3506091   |【Love is over】李建翻唱-=========-好不容易找到的资源            |mp3  |http://core.aekun.com/upload/ADA3BE77CD45260F73D96CA7B328FE56.mp3
+3506092   |【辛德瑞拉】刘心lx===--===深情男声                            |mp3  |http://core.aekun.com/upload/F7D52295A153EEB1D7C7B90DED0CF6C4.mp3
+3506093   |Keinupoika . 难得的纯人声“阿卡贝拉”音乐                       |mp3  |http://core.aekun.com/upload/BFBFA805C436061E19246DEAB7473432.mp3
+3506094   |【珍珠】吉克隽逸-=======-听歌的时候很幸福                         |mp3  |http://core.aekun.com/upload/8807B95DCB6A7B25A9DF57196DB0097B.mp3
+3506095   |Vem Que Tem -Mc Mayara D                          |mp3  |http://core.aekun.com/upload/F14A57FD36FB5582B538069506C589DD.mp3
+3506096   |小妖-the money                                      |mp3  |http://core.aekun.com/upload/B9E438C0FCD10AB2A4A63859798DC7A8.mp3
+3506097   |Tez Cadey - Seve                                  |mp3  |http://core.aekun.com/upload/F8590EE928DF77A8935CEE17E6567CD1.mp3
+3506098   |T-ara (???) - DAY BY DAY (Japanese ver.)          |mp3  |http://core.aekun.com/upload/F5FEFD7033799F2CE435B4E68286F965.mp3
+3506099   |中文 可不可以把所有都忘掉 只要在一起就好                             |mp3  |http://core.aekun.com/upload/125974DFDCFB78A918C2003E897EC6FE.mp3
+3506100   |各种担心                                              |mp3  |http://core.aekun.com/upload/78AA02F1CBD28B88FCF07E0E449FE5B7.mp3
+3506101   |没有名字得歌                                            |mp3  |http://core.aekun.com/upload/F9F669318A71F4BEAEB7010E430420E4.mp3
+3506102   |牵丝戏 . 曲风柔美、间奏的京剧唱腔更是醉了！                           |mp3  |http://core.aekun.com/upload/72A53FE2D998FF14088B452BE3FB209F.mp3
+3506103   |新霸王别姬 . 中国风好曲一枚！                                  |mp3  |http://core.aekun.com/upload/CDA3D57F4B8D499F70FB7601624D9232.mp3
+3506104   |Unknown . 歌名未知，越南超流行的一首DJ曲                        |mp3  |http://core.aekun.com/upload/6416DA751BAC9C20C0254BD6DCCCB1AF.mp3
+3506105   |Fantasy . 带好耳机或是调好你的音响，让我们慢摇一曲！                   |mp3  |http://core.aekun.com/upload/565946F6DAB075503FACE1AC9B95E079.mp3
+3506106   |Epica . 史诗般气势磅礴，震撼了心灵，无限循环！                       |mp3  |http://core.aekun.com/upload/5DCC26A542A7622FB3F9B6856633D32A.mp3
+3506107   |-< 浙江台州玉环苏荷酒吧                                     |mp3  |http://core.aekun.com/upload/1CDF112C01D2D884B64871631838AE1E.mp3
+3506108   |新霸王别姬（W.K.版） . 词美、曲美！2分40秒开始唱腔超赞！                 |mp3  |http://core.aekun.com/upload/154B3A2D4FC97792DBA924370ADA403D.mp3
+3506109   |-< 优美的钢琴 混上阿姆霸气RAP 美艳透了                           |mp3  |http://core.aekun.com/upload/0D0295EB06EAEB26833079E4CE1F4248.mp3
+3506110   |-< 爱依稀单路 缸里起鼓~~~                                  |mp3  |http://core.aekun.com/upload/07505314BBADB1CC65BEFFE81AD7A037.mp3
+3506111   |-< 吐血推荐  Hello Windows   由Windows提示音组成的治愈心灵的曲子    |mp3  |http://core.aekun.com/upload/E785C144493443A00136ED3FA54CC1E7.mp3
+3506112   |-< 听了不自觉摇起来  嗨药主打                                 |mp3  |http://core.aekun.com/upload/C7A65641CB77EE6040007009F4193002.mp3
+3506113   |-< 听 不听 听不听 哈哈 回来光顾下                              |mp3  |http://core.aekun.com/upload/5124EE96C6C50B5B85E3E94D95CDCB11.mp3
+3506114   |-< 她的声音仿佛有一种魔力 Slow                               |mp3  |http://core.aekun.com/upload/61B17D62C430C8B42C2C6729DBB97142.mp3
+3506115   |Hallelujah . 完全融化在暖嗓的纯人声音乐中。。。。。                  |mp3  |http://core.aekun.com/upload/D7236D4D0C04E96CF78623F4453F13A5.mp3
+3506116   |【没有选择】胡彦斌-=============-节奏男声                      |mp3  |http://core.aekun.com/upload/A035402BF63897D5A0BDC82F33654FC6.mp3
+3506127   |唯美的钢琴节奏                                           |mp3  |http://core.aekun.com/upload/CE30D64585A65551D0B929D22E605C50.mp3
+3506128   |告白气球粤语版。WERY GOOD                                 |mp3  |http://core.aekun.com/upload/E02888F7FAA8C59F68B3C2C6653AD230.mp3
+3506129   |情怨 . 江南女子亭台斟茶轻唱、清澈委婉。。。。                          |mp3  |http://core.aekun.com/upload/2C0C3EC052610089C71880AFE3242A80.mp3
+3506130   |La la Te quiero . 欢快的调调+一丢丢吉他前奏与间奏，感觉棒极了！         |mp3  |http://core.aekun.com/upload/84D861EE82E8DBABA5472F15EE9E4AE9.mp3
+3506131   |时光与爱                                              |mp3  |http://core.aekun.com/upload/B68ADE88442EF0B38BD5532D082E5F92.mp3
+3506132   |夜店潮牌                                              |mp3  |http://core.aekun.com/upload/4A92693049E120BF67A51AEDF6223001.mp3
+3506133   |My Humps DJ Scotty b Re                           |mp3  |http://core.aekun.com/upload/9C4F51147C00B4111C41790674B8D2FA.mp3
+3506134   |Timothy Victor - Ass2ass                          |mp3  |http://core.aekun.com/upload/7E9F1B10300807CEEE3B8331370D65E9.mp3
+3506135   |What About the Love . 女声自带磁感！节奏明快！                |mp3  |http://core.aekun.com/upload/4C312271E68AD820F805799AF577688F.mp3
+3506136   |落单恋人                                              |mp3  |http://core.aekun.com/upload/0246DA45D8F699CFF66F1CB60091753A.mp3
+3506137   |(????)??嗨爆                                        |mp3  |http://core.aekun.com/upload/315EA158729EA26A65363220C26E0E42.mp3
+3506138   |Feeling Free . 心灵疗伤治愈慢嗨曲！                         |mp3  |http://core.aekun.com/upload/79BBAF56F81A7E1558E3EC23A9AAD7ED.mp3
+3506139   |Te Pego E Pa . 风靡一时的夜场开场神曲、棒棒棒。。。嗨起。。。            |mp3  |http://core.aekun.com/upload/116904C817C41F3293BD361E17DF1ADA.mp3
+3506140   |我的歌声里                                             |mp3  |http://core.aekun.com/upload/D8392065F726C0B86FB3035F393C370B.mp3
+3506141   |康美之恋 . 320kbps/10.7M高音质欣赏以前再晚都要看的央视《著名企业音乐电视展播》   |mp3  |http://core.aekun.com/upload/B26E2B9D61517C7ADB0F892656BB4D4D.mp3
+3506142   |Timmy Trumpe . 不能控制摇摆的绝对常出入夜店，号角一起能停下来吗？          |mp3  |http://core.aekun.com/upload/B1B95FE899FC6973BDAB301189FFDF95.mp3
+3506143   |up all night                                      |mp3  |http://core.aekun.com/upload/A28DEC7A9E4532ECDC9819EF0942EE42.mp3
+3506144   |风继续吹（翻唱最有味道的女生版） . 哥哥，想你了！                        |mp3  |http://core.aekun.com/upload/D723F7A669C27E1E52333E904BD3318D.mp3
+3506145   |欢快的节奏                                             |mp3  |http://core.aekun.com/upload/39AC06925A62D7FCBC98211DA1EFE83D.mp3
+3506146   |耐听的虚幻、飘渺女神节奏                                      |mp3  |http://core.aekun.com/upload/B93FFCD12CF2B5DCECC7C4360B247C80.mp3
+3506147   |原ST歌名「 极品 Ｈｏｕｓｅ最迷幻的舞夜重鼓电音节奏 ) 电音节奏dj狂嗨到死          |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDAzOTc=
+3506148   |原ST歌名「 极品 Ｈｏｕｓｅ最迷幻的舞夜重鼓电音节奏 ) 电音节奏dj狂嗨到死          |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDAzOTc=
+3506149   |原ST歌名「 极品 Ｈｏｕｓｅ最迷幻的舞夜重鼓电音节奏 ) 电音节奏dj狂嗨到死          |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDAzOTc=
+3506150   |刚出炉：2017年磁性发烧极柔美极品女声中文串烧                          |mp3  |http://core.aekun.com/upload/24288A5FB25AD5812FF14B362A71EC70.mp3
+3506151   |Dark paradise                                     |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDA0MDA=
+3506154   |静静的回忆…………另一个夏天的童谣                                 |mp3  |http://core.aekun.com/upload/8CE299C05E414F521662F98FE4033CF2.mp3
+3506155   |Dead meat                                         |mp3  |http://core.aekun.com/upload/39CD937520CC26E3C526EA31298EA47D.mp3
+3506156   |departures あなたにおくるアイの                             |mp3  |http://core.aekun.com/upload/B66C6510071657E229B29606D03C3D39.mp3
+3506157   |孤独的灵魂                                             |mp3  |http://core.aekun.com/upload/D669399367B275582E6498FFD2EF6C6E.mp3
+3506158   |heaven - buckle up n chuggeluck                   |mp3  |http://core.aekun.com/upload/E2E7B786914F2A9863DBEE72EAFB0716.mp3
+3506159   |heaven - buckle up n chuggeluck                   |mp3  |http://core.aekun.com/upload/E2E7B786914F2A9863DBEE72EAFB0716.mp3
+3506160   |Tynisha Keli - Lullabye                           |mp3  |http://core.aekun.com/upload/B6CE96FBE2B8B1FD908A27B019940BC3.mp3
+3506161   | I Am The Sexy Girl                               |mp3  |http://core.aekun.com/upload/40D3B2654EE0E4C179F68E57C13A6622.mp3
+3506162   |The Band Perry - If I Die Young                   |mp3  |http://core.aekun.com/upload/DEADB5CD7B82E4EF5DAA9BC064CE19FF.mp3
+3506163   |ST的朋友回来报道——就爱这个调调                                 |mp3  |http://core.aekun.com/upload/3AE2752B60BF9E6E8D5FA06AA51C6F40.mp3
+3506164   |ST的朋友回来报道——舒服                                     |mp3  |http://core.aekun.com/upload/F06A900D62A481AF7AE53B4EF57728B5.mp3
+3506165   |ST的朋友回来报道——好听不多说                                  |mp3  |http://core.aekun.com/upload/B3A8096E881CA28A93510C044C7C00C4.mp3
+3506166   |ST的朋友回来报道——MIA                                    |mp3  |http://core.aekun.com/upload/D4A54B34D82A36F2DC7D44738AA6DF3A.mp3
+3506167   |ST的朋友回来报道——直接听吧                                   |mp3  |http://core.aekun.com/upload/087AA97E52E129955532F460DD686495.mp3
+3506168   |ST的朋友回来报道——好听没得说                                  |mp3  |http://core.aekun.com/upload/378E04C286452F5925867C382810BFDB.mp3
+3506169   |ST的朋友回来报道——do that shit do that shit              |mp3  |http://core.aekun.com/upload/C285C773A6415087F8D5E454C718C263.mp3
+3506170   |Galantis - Rich Boy                               |mp3  |http://core.aekun.com/upload/7AC4192CD48116045A259F4B92287EEF.mp3
+3506171   |Rameez - La La La (Radio Edit)                    |mp3  |http://core.aekun.com/upload/203B75FA43C34111A67AC73EE80DC42D.mp3
+3506172   |这是我最近最喜欢的一首中文歌曲                                   |mp3  |http://core.aekun.com/upload/30091F47F34275F7D4FD488F1B51D49F.mp3
+3506173   |安室奈美惠                                             |mp3  |http://core.aekun.com/upload/7E45D999005BE9DDDAF96FE78BE7D802.mp3
+3506174   |扳呐扳扳扳 比较好玩的一首歌曲                                   |mp3  |http://core.aekun.com/upload/AB8D70D950FAB0966EC10A132CAFCC84.mp3
+3506175   |日本调调                                              |mp3  |http://core.aekun.com/upload/16DAA96903CC0890EC145AB5F0621D52.mp3
+3506176   |[夜店气氛版]Brand New Day Mash UP                      |mp3  |http://core.aekun.com/upload/7A111EE7B44FF04D2889A1B9B5BCA957.mp3
+3506177   |前十秒就够了。                                           |mp3  |http://core.aekun.com/upload/AFA4C0F7F208D8285D049F6FDBB1C2BB.mp3
+3506178   |很帅的小鼓点                                            |mp3  |http://core.aekun.com/upload/ABFEC9540004DF660A6F0287E75BBC74.mp3
+3506179   |Noize MC -(Rusty K remix)                         |mp3  |http://core.aekun.com/upload/0647C432E135479DB18A4EA1D8B32A69.mp3
+3506180   |Maybe i'm crazy   Maybe you're crazy              |mp3  |http://core.aekun.com/upload/CCD847EF0DCD7795DA5510E9CA172CE8.mp3
+3506181   |【逃】朱克-===================-深情男声                    |mp3  |http://core.aekun.com/upload/8104DFD5134767AAE3B59D8D1EC73933.mp3
+3506182   |大爱The Weeknd                                      |mp3  |http://core.aekun.com/upload/DF847BB864F4C13E00E20CFC657AA777.mp3
+3506183   |【What U Need】张艺兴-===========-努力努力再努力              |mp3  |http://core.aekun.com/upload/D327562DD5D20823B95C66F378535FDF.mp3
+3506184   |不一样的感觉                                            |mp3  |http://core.aekun.com/upload/6F067AD3FF39FB686CA2748FA25309E0.mp3
+3506185   |【You raise me up 】李成宇|谭芷昀-===========-童声惊艳你       |mp3  |http://core.aekun.com/upload/E5743460481E9DBA033AA6BD9DCBE6B6.mp3
+3506186   |【极光】郑兴琦-==========-借我一道阳光                         |mp3  |http://core.aekun.com/upload/A7FB8108811E24736AD865768C5D5EA3.mp3
+3506187   |【瘀青】张智成-====-半边黑半边青都是爱过的痕迹                        |mp3  |http://core.aekun.com/upload/5DD7A9A4FD837F1287115A548F58ABAC.mp3
+3506188   |【一百种孤独的理由】郭美美-====-听歌的时候很幸福                       |mp3  |http://core.aekun.com/upload/C175FEE9C7B08E60464863067C45A411.mp3
+3506189   |【 I still believe ~ため息~】滴草由実-==-TV动画《名侦探柯南》ED27 / TVアニメ「名探偵コナン」ED27|mp3  |http://core.aekun.com/upload/8A1D76C1AB6393127F56673A9050DBC8.mp3
+3506190   |男人真的不容易 . 这么用情唱的比较难找了，男人确实不容易啊！                   |mp3  |http://core.aekun.com/upload/41AD88323D32651DE51469480EC808DB.mp3
+3506191   |Big bad world . 无乐器纯人声再添欢快单曲                      |mp3  |http://core.aekun.com/upload/21AE41F79D22FC83C4918FCA2A7D98BD.mp3
+3506192   |02 Ascension (feat. Vince Staples)                |mp3  |http://core.aekun.com/upload/BDB06A39B919256CEA5E4220C4D3D80D.mp3
+3506193   |04 Saturnz Barz (feat. Popcaan) (V1)              |mp3  |http://core.aekun.com/upload/F25E1C889D05D742DA147827FC45D3A9.mp3
+3506194   |10 Andromeda (feat. D.R.A.M.) (V1)                |mp3  |http://core.aekun.com/upload/7324647512C8F54E868CAD1A862BBD78.mp3
+3506195   |20 We Got the Power (feat. Jehnny Beth) (V1)      |mp3  |http://core.aekun.com/upload/F4B387B83A7557F1FE66D1AF4D16C58F.mp3
+3506196   |-< 苏荷酒吧暖场开心气氛   全场欢呼                              |mp3  |http://core.aekun.com/upload/2AAE57927EBDB84F836C9A182ECECD22.mp3
+3506197   |-< 苏荷乡村风味女声  小小小开心气氛                              |mp3  |http://core.aekun.com/upload/B6BB00B07BD2FEBE4EBE88113FF6EADC.mp3
+3506198   |01 The One                                        |mp3  |http://core.aekun.com/upload/7CA2F99A0158B2046CE05E5016885394.mp3
+3506199   |- <珍藏品    adventure  温柔的背后总是狠危险  丶                |mp3  |http://core.aekun.com/upload/3A1A9E832D5DD3E1C8D105FC2498DBBA.mp3
+3506200   |- <珍藏品   Dubstep 优美的小调调  1分26秒后直接俘获丶              |mp3  |http://core.aekun.com/upload/6C259BD98E8EE53691662D09B0BDBFE5.mp3
+3506201   |02 Break Up Every Night                           |mp3  |http://core.aekun.com/upload/5712058B07CAB2A9F7070B0C7FF1BBBD.mp3
+3506202   |I Wanna Love You . 暖男在你耳边轻声呢喃。。。                  |mp3  |http://core.aekun.com/upload/EB9C7FECD20D03013661514EF79E692A.mp3
+3506203   |One More Weekend . 更适合周末推的歌                       |mp3  |http://core.aekun.com/upload/61D4B55130229A5C4881A865064890DC.mp3
+3506204   |温暖治愈的小语男声                                         |mp3  |http://core.aekun.com/upload/323A663849AA098F7AD5467329A973F5.mp3
+3506205   |乌兹别克欢快节奏男声                                        |mp3  |http://core.aekun.com/upload/C214BF3AAB81EADB875E300F1239D393.mp3
+3506206   |小清新的女声，简简单单秒杀                                     |mp3  |http://core.aekun.com/upload/99A60AFF949B163894E53657F5FF24B5.mp3
+3506207   |Let Me Go（Nurko,Alina Renae版） . 一开嗓就被透亮的嗓音吸引了。。。  |mp3  |http://core.aekun.com/upload/397D57EB1A398273924F7AD677864D4C.mp3
+3506208   |欢乐节奏 Celebrate (Radio Edit) Anya 有种摇头的冲动          |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3ODU=
+3506209   |什么？节奏听多了？来首轻音乐danielle diiorio - let me breathe   |mp3  |http://core.aekun.com/upload/0F9D07D5A48D5A5A1F7E322058AF1084.mp3
+3506210   |Sorry . 悲情钢琴+迷幻女声=心碎一地，我无限循环了。。。                  |mp3  |http://core.aekun.com/upload/ED19423C8B8492BFE96B867A6F02E01F.mp3
+3506211   |清新小曲调调  Dezbracati                                |mp3  |http://core.aekun.com/upload/F9F65C1212B99B2B15AE21638CC6FCD8.mp3
+3506212   |慢摇舞曲 节奏至上  Ecerybody_DJ HAPPY vides               |mp3  |http://core.aekun.com/upload/B865AF2BD403FA153FC2C9CA0A4FEF65.mp3
+3506213   |-< 为了去追寻那些我们能够实现的想法                               |mp3  |http://core.aekun.com/upload/6AB1D62BCB6075D9847CDA019461ED71.mp3
+3506214   |Talamanca-When The Sun Goes Down (Original Mix)   |mp3  |http://core.aekun.com/upload/382F48FCFD9EFBC0EE0F458BB8F38964.mp3
+3506215   |经典慢摇 Rimini Project - To Be Or Not To Be          |mp3  |http://core.aekun.com/upload/33CDE3373A7A1C58F50F663ECDE7E8FA.mp3
+3506216   |Det er mig der holder traerne sammen              |mp3  |http://core.aekun.com/upload/3188F2E05534C7E55CAFBA77F9ABE72B.mp3
+3506217   |Dizzy - Ours                                      |mp3  |http://core.aekun.com/upload/35DBA974390444D0029F169841B5A201.mp3
+3506218   |Do not Fear the Reaper                            |mp3  |http://core.aekun.com/upload/4BCE76AC796E9F56C7CD1F8F5EE0A996.mp3
+3506219   |Jeremy Thurber - I Love You But                   |mp3  |http://core.aekun.com/upload/3A7E229D9B85BBB71563546AAD91686F.mp3
+3506220   |LaShawn Daniels - Taxi (Prod. by Stargate)        |mp3  |http://core.aekun.com/upload/9993DC849FC48947ECFD490B15528ECE.mp3
+3506221   |Claude Kelly - Where I Went Wrong (Prod. by Konvict)|mp3  |http://core.aekun.com/upload/72984BDF380BBEF7A8CF13CBBE9DFB9E.mp3
+3506224   |Utada - Merry Christmas Mr. Lawrence - FYI        |mp3  |http://core.aekun.com/upload/B817BBCCF62BF9CA050603D65732690F.mp3
+3506225   |Chris Mann - Extraordinary Girl                   |mp3  |http://core.aekun.com/upload/AA438CA258ED3D8C1251C7CFFBE65721.mp3
+3506226   |Atozzio - Unhealthy Love                          |mp3  |http://core.aekun.com/upload/999EA7B4F3D7EFDB5892364516909141.mp3
+3506227   |Chris August - Let It Be Me                       |mp3  |http://core.aekun.com/upload/6D4C9FAF3B753C7975363D747228C871.mp3
+3506228   |Running   致敬2PAC                                  |mp3  |http://core.aekun.com/upload/38FD85F7B90FF3F8D227225964EA181E.mp3
+3506229   |A$AP Rocky、Rod Stewart、Miguel、Mark Ronson - Everyday|mp3  |http://core.aekun.com/upload/42655D85D5D7A09455E8E9502D4AC87C.mp3
+3506230   |个人认为AKON最有气势的一首 Keep Up                           |mp3  |http://core.aekun.com/upload/8F5D181E9B9C6C211E9F26FCD1A43E5F.mp3
+3506231   |Eric Bellinger – Take You there (Prod. by RedOne) |mp3  |http://core.aekun.com/upload/557FD35FA30BC6C3388CEC69E247E00B.mp3
+3506232   |Angus & Julia Stone - Big Jet Plane 超有感觉          |mp3  |http://core.aekun.com/upload/C6C5CF1498EABD8FFFC17D739AFFF563.mp3
+3506233   |Ne-Yo – In The Lights                             |mp3  |http://core.aekun.com/upload/4BDA9D7949927A72A3268A3836B7DBB6.mp3
+3506234   |Angus & Julia Stone - Grizzly Bear 就是这个感觉         |mp3  |http://core.aekun.com/upload/2CB4ECA992102A86ADC5EBCA7150C28B.mp3
+3506235   |月半小夜曲+RAP=street life                             |mp3  |http://core.aekun.com/upload/A93A8BC083A7720604F8428C5A825CA3.mp3
+3506236   |Too Much Heaven 百听不厌的老歌                           |mp3  |http://core.aekun.com/upload/82CEF166E7CE6C6464823A128F8353AC.mp3
+3506237   |特别性感的歌 Silvya-Feel                                |mp3  |http://core.aekun.com/upload/6A412CDBE24E5A0CDAF8433F5A8788D8.mp3
+3506238   |Angel On My Shoulder --小葛                         |mp3  |http://core.aekun.com/upload/BC3215DBFC0C941E001CEF0B124C8762.mp3
+3506239   |Tinashe - Same Old Me (Prod. by StarGate)         |mp3  |http://core.aekun.com/upload/4F7355E69ADC276CEB174CE4BA79FABF.mp3
+3506240   |Lil Jon - Throw It Up  大爱                         |mp3  |http://core.aekun.com/upload/924B92C98523640C570FF54DED40A4A8.mp3
+3506241   |Muse - Sing for Absolution特别有感觉                   |mp3  |http://core.aekun.com/upload/7DD3CF06B97F5C931EC84396F5AC43C1.mp3
+3506242   |硬核Girls    嗨爆                                     |mp3  |http://core.aekun.com/upload/D9FE2699DA186EE899A1157E7CA694BA.mp3
+3506243   |Sarah Harmer - One Match轻快的小调调                    |mp3  |http://core.aekun.com/upload/0F7B0AF4B90630BEE00B6A6369888CE8.mp3
+3506244   |Some & Any - I Wish You Knew  很舒服                 |mp3  |http://core.aekun.com/upload/775AF4BF523083D82D7F02B87AEA4B87.mp3
+3506245   |Trent Harmon - Falling                            |mp3  |http://core.aekun.com/upload/F103FF101A1DCC8DA9D7E4DF104B248D.mp3
+3506246   |Turbo Fight - Knock out 配合TURBO的一拳KO  帅爆          |mp3  |http://core.aekun.com/upload/B0DEC4E922258E17F9F7E9F71C7055D4.mp3
+3506247   |Faded最幻的版本                                        |mp3  |http://core.aekun.com/upload/94E8AB0DC8605374EDEC4F34784AE995.mp3
+3506248   |Claude Kelly - Payback                            |mp3  |http://core.aekun.com/upload/26E7D30F307E183DBBBF1FA48B046D63.mp3
+3506249   |Rico Davis - Say Goodnight                        |mp3  |http://core.aekun.com/upload/1AE547C0F037AE91AAABFF1D3C98B763.mp3
+3506250   |Rob Allen - Un Human                              |mp3  |http://core.aekun.com/upload/89AD2B92836AFC329F0463BE26BB00EC.mp3
+3506251   |Johnny Gill Feat. Jaheim - 5,000 Miles            |mp3  |http://core.aekun.com/upload/C702D1A652CD63288DA1EAFF3CAE9AB7.mp3
+3506252   |Javier Colon - Never Know                         |mp3  |http://core.aekun.com/upload/4BC66AEB6E1E2CF548D8929510F09346.mp3
+3506253   |Rita Ora – Not Scared (Prod. by StarGate)         |mp3  |http://core.aekun.com/upload/DE144FEC7268385389D8374ADCEB277D.mp3
+3506254   |Ameerah – 7000 Miles Away                         |mp3  |http://core.aekun.com/upload/3C954599A8B82B0AA076C30A19287BFA.mp3
+3506255   |Meghan Trainor - No                               |mp3  |http://core.aekun.com/upload/7740D7BC0CD5F0C72C5CEC940B4D87DB.mp3
+3506256   |Alan Walker - Routine                             |mp3  |http://core.aekun.com/upload/718C009857832CA661CDA1E10FC62715.mp3
+3506257   |He Girls And He Number                            |mp3  |http://core.aekun.com/upload/9C6D33CD9A74553EEFFED6DB000581A3.mp3
+3506258   |经典口水                                              |mp3  |http://core.aekun.com/upload/EF9ECEBAB8CE01E847509332536E9D27.mp3
+3506259   |Hello                                             |mp3  |http://core.aekun.com/upload/035C32E79B222FBEF21EB96F41F771DF.mp3
+3506260   |迷离女声                                              |mp3  |http://core.aekun.com/upload/C566B4DBA51A1F496019862BF848F992.mp3
+3506261   |震撼心灵  最后的印第安人The Last of the Mohicans街头艺人版        |mp3  |http://core.aekun.com/upload/A0F536C71B61BAA199CE9BD1A5EE0145.mp3
+3506262   |节奏女声  Kiso,Shaun Frank,KSHMR - Heaven (Kiso Remix)|mp3  |http://core.aekun.com/upload/CF6F03B5CB65EC68C039F39866661E34.mp3
+3506263   |Good Times . 绝对不用解释的一首好歌！                         |mp3  |http://core.aekun.com/upload/1C79BA45B764E2D391A5EC6594D4522E.mp3
+3506264   |妈妈留给我一首歌 . 看着动车窗外的夜景，我想妈妈了。。。。。。                  |mp3  |http://core.aekun.com/upload/612CDA470A07339579552603906785E0.mp3
+3506265   |Angel                                             |mp3  |http://core.aekun.com/upload/72399A7E8482E81FE9393D71F374430A.mp3
+3506266   |拉脱维亚磁性男声，慢摇 听一次让你爱上它！！                            |mp3  |http://core.aekun.com/upload/21C3AAD69A9D1DB2149345865230CB45.mp3
+3506267   |投降吧、粤语。wery good                                  |mp3  |http://core.aekun.com/upload/A35DBEC0DBCE6A11711899C6A351D211.mp3
+3506268   |我的楼兰                                              |mp3  |http://core.aekun.com/upload/C9309B77F8385EBCBA45658DA8603DB2.mp3
+3506269   |绝对值得收藏---                                         |mp3  |http://core.aekun.com/upload/59AB2B3BBCEA69171587CB12CDAAC8CD.mp3
+3506270   |we don't talk anymore    we don't love anymore    |mp3  |http://core.aekun.com/upload/64B2BD54715203FE4D58010DCBF54BEF.mp3
+3506271   |要钱还是要命                                            |mp3  |http://core.aekun.com/upload/0114CA3801161B1F16944238FAACBA1A.mp3
+3506272   |经典老歌了--beggin                                     |mp3  |http://core.aekun.com/upload/D9A14514F22B60B48D134DEB919EC806.mp3
+3506273   |ili   感觉                                          |mp3  |http://core.aekun.com/upload/5B5F004B6D188361DB42747D3E8798A1.mp3
+3506274   |依旧是这个感觉                                           |mp3  |http://core.aekun.com/upload/4DFE0584A8CF59466184F3ECFD9A7AE0.mp3
+3506275   |前奏控来吧---                                          |mp3  |http://core.aekun.com/upload/FE964B88120D99DA59F0FA22AB5E4FD1.mp3
+3506276   |{  。敲到你耳朵怀孕。}                                     |mp3  |http://core.aekun.com/upload/9A10555EA391EBA0651C78C8765A5D98.mp3
+3506277   |Lene Marlin - Sitting Down Here                   |mp3  |http://core.aekun.com/upload/7B376C6E23CE79589F5E7A1F3A0F6EBD.mp3
+3506278   |你爱的理由                                             |mp3  |http://core.aekun.com/upload/33ABC42C40F4A8AD1056BCF743F064D2.mp3
+3506283   |潮牌电音很HIgh很欢快 节奏爽翻                                 |mp3  |http://core.aekun.com/upload/7610AF03A463A8859389A28789401237.mp3
+3506284   |清晰迷人罗马尼亚男声 好听的旋律                                  |mp3  |http://core.aekun.com/upload/0E618663BCDC9E4C2A56FA148E2533D7.mp3
+3506285   |唯美小语喜欢贯穿在整首歌中的人声                                  |mp3  |http://core.aekun.com/upload/1530B6E7861F1F97D280DF939573A892.mp3
+3506286   |Helpless . 想好了像另外哪首歌了吗？                           |mp3  |http://core.aekun.com/upload/899CC9B7E470D2C25CB400A7516C5944.mp3
+3506288   |旋律很棒的欢快电子女声-送给辛苦的站长~                              |mp3  |http://core.aekun.com/upload/03B72784102AA1846D83CDAC2D1D15E5.mp3
+3506289   |-< 零 下 十 一 摄 氏 度   绝 美 节 奏 冰 冻 你 的 心              |mp3  |http://core.aekun.com/upload/B3D67E386F4BD9F1B65E389446471712.mp3
+3506290   |-  < 某主题西餐厅放的爵士乐  Morning Sun  Kris Berry         |mp3  |http://core.aekun.com/upload/7945CFC65ED0B68D9779D3C7E2ED9569.mp3
+3506291   |-  苏荷 女士们 先生们  经典开场ˇ                              |mp3  |http://core.aekun.com/upload/6F2B5A9FCC8C9221AE254C6D66D8BAA9.mp3
+3506292   |坚持到1分9秒的时候节奏不会让你失望的  Sam Feldt,Halsey - Colors (Sam Feldt Radio Edit)|mp3  |http://core.aekun.com/upload/09724AE7C19E4C6B99D1045A3968435A.mp3
+3506293   |Dynamite . 好有磁性的男声划破夜空，真的好美。。。                    |mp3  |http://core.aekun.com/upload/04D5DC80EF0BE6E7B80BE41CA716F41E.mp3
+3506294   | 慢摇 稀有调调 hvob - Always Like This (Original Mix) - remix|mp3  |http://core.aekun.com/upload/09724AE7C19E4C6B99D1045A3968435A.mp3
+3506295   |混音慢摇 听着有种脱胎换骨的新颖   Win & Woo,Echosmith - Cool Kids (Win & Woo Remix)|mp3  |http://core.aekun.com/upload/AC3CF0CC1F86BB6F4EDC06517ADA84B4.mp3
+3506296   |The Ready Set . 几次硬盘大清理都留下的一首简单好歌                 |mp3  |http://core.aekun.com/upload/A2516319B05C4A1506005C958A05706F.mp3
+3506297   |-< 金刚兄弟 Jorge Ben - Brother                       |mp3  |http://core.aekun.com/upload/E79633A4795D71C041EF5E54B38A36C4.mp3
+3506298   |暗潮 爆嗨  慢摇  Zwette,Dirty Vegas - Do What You Feel (Zwette Remix)|mp3  |http://core.aekun.com/upload/8DE294A2FDFF1FAB4036AA50AB23DFA8.mp3
+3506299   |Nothing is Lacking（纯音乐） . 非常恬静非常舒服的解压曲！           |mp3  |http://core.aekun.com/upload/00E5931F9A8D88AA8005413F64BF51FE.mp3
+3506300   |拉脱维亚磁性男声第二弹，慢摇，经典                                 |mp3  |http://core.aekun.com/upload/F84F9C5F55221DC4B5BB9188597A2B36.mp3
+3506301   |好听到爆的慢摇，独爱。                                       |mp3  |http://core.aekun.com/upload/81EBC5AA18BE1EAC9F847E2439A5575B.mp3
+3506302   |像我这种大半夜发歌的神经应该就我一个                                |mp3  |http://core.aekun.com/upload/10DA0A88720F58314479E0FE84A214CB.mp3
+3506303   |That’s What I Like                                |mp3  |http://core.aekun.com/upload/B4BC2968A342D22282033BDC3F9A1879.mp3
+3506304   |-< 美帝街头 Dr. Dre,Snoop Dogg - The Next Episode     |mp3  |http://core.aekun.com/upload/CB24905EE53B5F1DECE89AAC129CC12B.mp3
+3506305   |Dirty liiiiiiiiiife                               |mp3  |http://core.aekun.com/upload/4F2D0A7BD17F35E47AE6A794DD333412.mp3
+3506306   |Bandida Susy Gala                                 |mp3  |http://core.aekun.com/upload/44B0D0E623E51F5B78EF964515E9357C.mp3
+3506307   |KSHMR - Back To Me                                |mp3  |http://core.aekun.com/upload/C70B7F5713634D4213F9AE0EA44C655A.mp3
+3506308   |夜空                                                |mp3  |http://core.aekun.com/upload/CEAB63261DDEA9BE1228DF1A39C2A6B0.mp3
+3506309   |Byte-Martin Garrix/Brooks                         |mp3  |http://core.aekun.com/upload/D6D6505446A5B587A0763C05F02AC775.mp3
+3506310   |最后的敷衍                                             |mp3  |http://core.aekun.com/upload/C38D210D2630BDA0425F1062077C42E0.mp3
+3506311   |试探你的温柔                                            |mp3  |http://core.aekun.com/upload/9C465A3794E8194E3195B994EB367917.mp3
+3506312   |Teriyaki Boyz                                     |mp3  |http://core.aekun.com/upload/45CB75725B08E7F3F1CF127ADFEA43C1.mp3
+3506313   |All I Need                                        |mp3  |http://core.aekun.com/upload/C445D446FF86DB34F9028F82ECA78DED.mp3
+3506314   |Awhile . 慵懒女声+魅力小调节奏，莫名喜欢。。。                      |mp3  |http://core.aekun.com/upload/75F758840A60EB960DDFE07F9C78B43D.mp3
+3506315   |要死就一定要死在你手里                                       |mp3  |http://core.aekun.com/upload/6D9A1D0D048E9466000B1E78305EC979.mp3
+3506316   |HayPa . 两南亚帅气小鲜肉带你High下来                          |mp3  |http://core.aekun.com/upload/7D72D6CFF7404ECE89EF7DBF36912B26.mp3
+3506317   |Man . 不知疲倦地为大家推歌，你全当我没来过                          |mp3  |http://core.aekun.com/upload/FF3BE202D05C0CF9458699D9669F5980.mp3
+3506318   |杂菜饭 . 今天刚发布的原创歌曲，“靓仔，今日食点乜野？”                     |mp3  |http://core.aekun.com/upload/7BD24B90D109012A3E6466B75477A5FF.mp3
+3506319   |De Aqui A La Luna . 俏皮舒服好嗓                        |mp3  |http://core.aekun.com/upload/9CF452DBDC63B52498866520BABDAE31.mp3
+3506320   |酒吧女声，超赞经典女嗓极品节奏                                   |mp3  |http://core.aekun.com/upload/5D8CD9FFD5E6DE23C46978C33EC7D5BE.mp3
+3506321   |口哨开头的男声，耳朵已经怀孕。                                   |mp3  |http://core.aekun.com/upload/3885DAFB9B5B6DCDD0525B579227169B.mp3
+3506322   |晚安                                                |mp3  |http://core.aekun.com/upload/28430963D966705B6CC21D367D0BB510.mp3
+3506323   |Ariana Grande - Nobody Does It Better (Prod. by Harmony Samuels)|mp3  |http://core.aekun.com/upload/D8D3802360D3926802C41514DC0BE08B.mp3
+3506324   |Beatz - Ain’t Your Girl                           |mp3  |http://core.aekun.com/upload/AFD96606746F7E7182F0FEC86151E5A1.mp3
+3506325   |Bonnie McKee                                      |mp3  |http://core.aekun.com/upload/988E7ECB8B67B668B6A5F1F1713309C8.mp3
+3506326   |Bonnie McKee – Always on My Mind                  |mp3  |http://core.aekun.com/upload/988E7ECB8B67B668B6A5F1F1713309C8.mp3
+3506327   |Bonnie McKee – Always on My Mind                  |mp3  |http://core.aekun.com/upload/988E7ECB8B67B668B6A5F1F1713309C8.mp3
+3506328   |Bonnie McKee – Always on My Mind                  |mp3  |http://core.aekun.com/upload/988E7ECB8B67B668B6A5F1F1713309C8.mp3
+3506329   |Unknown - Wanna Love Ya                           |mp3  |http://core.aekun.com/upload/8058191B062BB3318085D26D3CE5189C.mp3
+3506330   |No Broken Hearts   喜欢这个调调                         |mp3  |http://core.aekun.com/upload/FCAD170D2C75F80D9BB1519136DAC60B.mp3
+3506331   |No Broken Hearts   喜欢这个调调                         |mp3  |http://core.aekun.com/upload/FCAD170D2C75F80D9BB1519136DAC60B.mp3
+3506332   |No Broken Hearts   喜欢这个调调                         |mp3  |http://core.aekun.com/upload/FCAD170D2C75F80D9BB1519136DAC60B.mp3
+3506333   |No Broken Hearts  喜欢这个调调                          |mp3  |http://core.aekun.com/upload/FCAD170D2C75F80D9BB1519136DAC60B.mp3
+3506334   |I Loved You Dangerously  安静听吧                     |mp3  |http://core.aekun.com/upload/3599DED7D5D3023DFF910E03C1F7FD84.mp3
+3506335   |W&W - How Many                                    |mp3  |http://core.aekun.com/upload/DBBC2B2B85B3D52CBDA92804FCD04A56.mp3
+3506336   |W&W - How Many                                    |mp3  |http://core.aekun.com/upload/DBBC2B2B85B3D52CBDA92804FCD04A56.mp3
+3506337   |W&W - How Many                                    |mp3  |http://core.aekun.com/upload/DBBC2B2B85B3D52CBDA92804FCD04A56.mp3
+3506338   |W&W - How Many                                    |mp3  |http://core.aekun.com/upload/DBBC2B2B85B3D52CBDA92804FCD04A56.mp3
+3506339   |Mellina、That's Right - Celebrate                  |mp3  |http://core.aekun.com/upload/3FDE9294817D4D95AEEE1AC7C193FEAC.mp3
+3506340   |Mellina、That's Right - Celebrate                  |mp3  |http://core.aekun.com/upload/3FDE9294817D4D95AEEE1AC7C193FEAC.mp3
+3506341   |No Broken Hearts  喜欢这个调调                          |mp3  |http://core.aekun.com/upload/FCAD170D2C75F80D9BB1519136DAC60B.mp3
+3506342   |No Broken Hearts  喜欢这个调调                          |mp3  |http://core.aekun.com/upload/FCAD170D2C75F80D9BB1519136DAC60B.mp3
+3506343   |test                                              |mp3  |http://core.aekun.com/upload/344396007A087C1E1320A209E1275BED.mp3
+3506344   |test                                              |mp3  |http://core.aekun.com/upload/344396007A087C1E1320A209E1275BED.mp3
+3506344   |test                                              |mp3  |http://core.aekun.com/upload/344396007A087C1E1320A209E1275BED.mp3
+3506345   |test                                              |mp3  |http://core.aekun.com/upload/344396007A087C1E1320A209E1275BED.mp3
+3506346   |tet                                               |mp3  |http://core.aekun.com/upload/344396007A087C1E1320A209E1275BED.mp3
+3506347   |《名侦探柯南：唐红的恋歌》剧场版主题曲                               |mp3  |http://core.aekun.com/upload/AEB8B68234CE2BA5BCB27CEE7DBFEC1D.mp3
+3506348   |《名侦探柯南：唐红的恋歌》剧场版主题曲                               |mp3  |http://core.aekun.com/upload/AEB8B68234CE2BA5BCB27CEE7DBFEC1D.mp3
+3506349   |名侦探柯南剧场版主题曲                                       |mp3  |http://core.aekun.com/upload/AEB8B68234CE2BA5BCB27CEE7DBFEC1D.mp3
+3506350   |名侦探柯南剧场版主题曲                                       |mp3  |http://core.aekun.com/upload/AEB8B68234CE2BA5BCB27CEE7DBFEC1D.mp3
+3506351   |test                                              |mp3  |http://core.aekun.com/upload/344396007A087C1E1320A209E1275BED.mp3
+3506352   |名侦探柯南 渡月橋                                         |mp3  |http://core.aekun.com/upload/4049BDF7A1910055DF57B179F057AEF4.mp3
+3506353   |W&W - How Many                                    |mp3  |http://core.aekun.com/upload/DBBC2B2B85B3D52CBDA92804FCD04A56.mp3
+3506354   |No Broken Hearts  喜欢这个调调                          |mp3  |http://core.aekun.com/upload/FCAD170D2C75F80D9BB1519136DAC60B.mp3
+3506355   |Mellina、That's Right - Celebrate                  |mp3  |http://core.aekun.com/upload/3FDE9294817D4D95AEEE1AC7C193FEAC.mp3
+3506356   |I  Love You Dangerously  ----Dangerously          |mp3  |http://core.aekun.com/upload/3599DED7D5D3023DFF910E03C1F7FD84.mp3
+3506357   |Coleman Hell - 2 Heads                            |mp3  |http://core.aekun.com/upload/ADF75E25BBD93983B0E7C14FC5FE30D4.mp3
+3506358   |Estelle、Jussie Smollett - Conqueror               |mp3  |http://core.aekun.com/upload/54EA378141F63DF77872FE16B65BB458.mp3
+3506359   |Sing . 好好享受中快速的节奏吧！                               |mp3  |http://core.aekun.com/upload/0B26C17C13B9B742EF17AEC8DE37CE59.mp3
+3506360   |Stranger  缥缈  安静地听吧                               |mp3  |http://core.aekun.com/upload/0800547115CDAE8782FD4417C21E3AA2.mp3
+3506361   |Evil girl (club mix) Albert Kick                  |mp3  |http://core.aekun.com/upload/6FC55450E047F38FE1FC7035AA2BDDE5.mp3
+3506362   |Relax  还是喜欢Mika这骚气的声音                             |mp3  |http://core.aekun.com/upload/777377792D6534EDFF5468AB7612105A.mp3
+3506363   |Man Down    Rihanna的歌里我最喜欢的一首                     |mp3  |http://core.aekun.com/upload/830D465C5F73665DFA4B44E564D42435.mp3
+3506364   |停格                                                |mp3  |http://core.aekun.com/upload/62DB75A9397F9CC60C2EF16CE4DEAEAB.mp3
+3506365   |无声的吉他                                             |mp3  |http://core.aekun.com/upload/95E472C8403B22D25AE5F417A175B6BC.mp3
+3506366   |Evil Girl - Club Mix - Albert Kick(albert kick)   |mp3  |http://core.aekun.com/upload/EFEB215919B123955ADBD622055AF1C6.mp3
+3506367   |queenie muzik - if he knew                        |mp3  |http://core.aekun.com/upload/D08E3620DC9F275DD6590E7461A1991C.mp3
+3506368   |De Aqui a la Luna . 清新畅爽的小调循环在下班路上。。。             |mp3  |http://core.aekun.com/upload/A1CFFBA360F63278590E597DEC539DF2.mp3
+3506369   |Die Antwoord - Raging Zef Boner  抖抖腿吧             |mp3  |http://core.aekun.com/upload/A540E7D3CD91827BF831E6374EC8F05A.mp3
+3506370   |Inna、Marian Hill - Diggy Down  赫赫赫赫赫。             |mp3  |http://core.aekun.com/upload/2ED085AF2D5ECC3495E7EA629410E7AC.mp3
+3506371   |KSK - Can You  爽爽爽爽爽                              |mp3  |http://core.aekun.com/upload/18AA5E84C9F245942F2C6BF13D3C56AF.mp3
+3506372   |Rebecca Ferguson - Run Free 爆帅的节奏                 |mp3  |http://core.aekun.com/upload/F47320ACA591DC738B2F4FD31237556F.mp3
+3506373   |Contigo . 女声大气洒脱、飚高音也毫不含糊！                        |mp3  |http://core.aekun.com/upload/32C836FF322B7801665BD21F80F4F505.mp3
+3506374   |Swollen Members - Bottom Line  不多介绍  我懒           |mp3  |http://core.aekun.com/upload/83B8131F99A979B760EE37B0A036A72E.mp3
+3506375   |Swollen Members - Fuel Injected 承载着9年前的故事         |mp3  |http://core.aekun.com/upload/95611D9878B3E91AE6E4949D1812FC02.mp3
+3506376   |Contigo（另一版本） . 超带感！不解释！                          |mp3  |http://core.aekun.com/upload/97ED81A767B075987B17542C12EA2930.mp3
+3506377   |男孩别哭   让我不得不推的中文歌                                 |mp3  |http://core.aekun.com/upload/AFC2DA9B820D434A4C9A6E444B8A9795.mp3
+3506378   |调皮节奏 Win & Woo - Mine (Win & Woo Remix)           |mp3  |http://core.aekun.com/upload/1A48B407133882FBCBD2F6BE3B15A52E.mp3
+3506379   |治愈节奏  Darone - Home Again                         |mp3  |http://core.aekun.com/upload/EBC9B6F158912C4D2F51B56EA54D8060.mp3
+3506380   |经典  September - because i love you                |mp3  |http://core.aekun.com/upload/EC074F4DF2AB0028E3366FEE20E18013.mp3
+3506381   |飘飘然然的女声 Kiss The Night (Oren Chill)               |mp3  |http://core.aekun.com/upload/24944036C3B149A1ED7C66A74C008E46.mp3
+3506382   |调调 danielle diiorio - let me breathe              |mp3  |http://core.aekun.com/upload/0F9D07D5A48D5A5A1F7E322058AF1084.mp3
+3506383   |Remnants . 前段美如画、中段稍吵、否则完美                        |mp3  |http://core.aekun.com/upload/B83E3F1A9ECB5128ED558BDED710F1C9.mp3
+3506384   |电音  David Guetta &amp; Sia - Titanium (Andy P Remix）|mp3  |http://core.aekun.com/upload/E5091D7D0F1DCF0AC56A84EB718141EC.mp3
+3506385   |-< 寻找                                             |mp3  |http://core.aekun.com/upload/AED08142DC8C7FC7E83DF25D7425AD28.mp3
+3506386   |曾经最爱 Emotive Tunes feat Selecte - I Wanna Be With You|mp3  |http://core.aekun.com/upload/A186106895A737881D21A0B4C6D2BC8B.mp3
+3506387   |Everytime loreen                                  |mp3  |http://core.aekun.com/upload/5F9D76D61BA48DC73FC5412CEBFD18AA.mp3
+3506388   |Fingerprints -- Kari Kimme                        |mp3  |http://core.aekun.com/upload/068E3B2DA1D38F59222DD8C067718A0F.mp3
+3506389   |-< 生是你的老百姓，死是你的小精灵-东极岛                            |mp3  |http://core.aekun.com/upload/B85B808D54A3ABED2C1C30995D1233FE.mp3
+3506390   |慢摇 Get Free (Adriatique's Lazers Never Die Rework)|mp3  |http://core.aekun.com/upload/EC2EA67B248934ED712FCD72CA326A19.mp3
+3506391   |Love Exists . 再遇大气好嗓！                             |mp3  |http://core.aekun.com/upload/61151FA4A634206961B564A566688C74.mp3
+3506392   |-< 这歌可以配上无线火力 LeeAlive - Game Time(Mashup)        |mp3  |http://core.aekun.com/upload/9B4989421A79FAFB5FF7B5EEE405FF66.mp3
+3506393   |O.I.L . 靓仔，假音好舒服哦。。。                              |mp3  |http://core.aekun.com/upload/4D2255DD74FEDED3F016B911D8B766AE.mp3
+3506394   |史诗级 纯音 Two Steps From Hell - Star Sky - Instrumental|mp3  |http://core.aekun.com/upload/F7DA48664B51D066275C68936CA6762F.mp3
+3506395   |-< 四十二秒开始真的超奈斯 Merk & Kremont - Invisible         |mp3  |http://core.aekun.com/upload/468F4775520E5B2718623B11FF3456A7.mp3
+3506396   |Whole Lot of Yellow . 简单旋律、简单快乐！                  |mp3  |http://core.aekun.com/upload/12676C6780BD4A608F855E9798E149CA.mp3
+3506397   |爱电音的你不妨听听 Alok,Sevenn - BYOB                      |mp3  |http://core.aekun.com/upload/163C93643731FC34A13F25E338F36436.mp3
+3506398   |舞曲 Various Artists - I dont konw                  |mp3  |http://core.aekun.com/upload/FCD3461E5A7C1FD0BBBDE469F72DA3D1.mp3
+3506399   |Bonnie McKee – Always on My Mind                  |mp3  |http://core.aekun.com/upload/988E7ECB8B67B668B6A5F1F1713309C8.mp3
+3506400   |Carly Rae Jepsen - Still In the Game              |mp3  |http://core.aekun.com/upload/9608A46A7B127D6FC57B38B648C9E93F.mp3
+3506401   |Unknown - Wanna Love Ya                           |mp3  |http://core.aekun.com/upload/8058191B062BB3318085D26D3CE5189C.mp3
+3506402   |Coline Creuzot - High Life                        |mp3  |http://core.aekun.com/upload/D6A3D25A6D2060810E73D6B82141AB26.mp3
+3506403   |Craig David - Spotlight                           |mp3  |http://core.aekun.com/upload/40FA66FE65CF7BA20C1D590CB2080BB2.mp3
+3506404   |DNCE – What’s Love Got To Do With It              |mp3  |http://core.aekun.com/upload/6FFDEF9237A221CDF163F0C12690CABC.mp3
+3506405   |Eric Bellinger – Destiny                          |mp3  |http://core.aekun.com/upload/FEEB51AFC5CCDD1555118C24D995D2CF.mp3
+3506406   |Eric Bellinger – Paris (Prod. by Dre & Vidal)     |mp3  |http://core.aekun.com/upload/A4393B2BB7B1FCEDB825112118184B14.mp3
+3506407   |Foxes - We Are Islands                            |mp3  |http://core.aekun.com/upload/80F47B332FBEFF47EEEB6C9CDBACD260.mp3
+3506408   |John Lindahl – Gimme One Chance (Prod. by RedOne) |mp3  |http://core.aekun.com/upload/857144C71A6523AC00759BCE1A130D20.mp3
+3506409   |JoJo - Relax                                      |mp3  |http://core.aekun.com/upload/0A032C6BF2348A1DDEAF7BF48DCB5F2D.mp3
+3506410   |K. Michelle - Not a Little Bit                    |mp3  |http://core.aekun.com/upload/240FB6EE3CFFBF04D12E0567C5E1AC19.mp3
+3506411   |Natalia – Fighting Blind                          |mp3  |http://core.aekun.com/upload/78521303A70EBF371F2883CEA353B73B.mp3
+3506412   |Nicole Scherzinger – Have You Lost Your Fucking Mind|mp3  |http://core.aekun.com/upload/6B403F2B8856CE4C826810A8064A8419.mp3
+3506413   |Novel – Mirage (Takin Me Over)                    |mp3  |http://core.aekun.com/upload/A9EAE0809B87D4132001F7A8F8C91E72.mp3
+3506414   |Jon Bellion – Come Back Down (For My Sister)      |mp3  |http://core.aekun.com/upload/1C8248BA7849D5CFE422C2E77459F1A6.mp3
+3506415   |欧美天籁炫音 9 - 瑞梅克斯                                   |mp3  |http://core.aekun.com/upload/B8ABE25681EF44DE4F44576A343AC860.mp3
+3506416   |欧美天籁炫音 10 - 瑞梅克斯                                  |mp3  |http://core.aekun.com/upload/C57DEC9F69C51886D2A790B5E43B253D.mp3
+3506417   |-< Zhouna 新单 来发炸裂的开场                              |mp3  |http://core.aekun.com/upload/CA36C32773D0DA9686930841F2A543EA.mp3
+3506418   |欧美天籁炫音 11- 瑞梅克斯                                   |mp3  |http://core.aekun.com/upload/72B223358C361CA06F75F00A2B08A63A.mp3
+3506419   |欧美天籁炫音 12 - 瑞梅克斯                                  |mp3  |http://core.aekun.com/upload/1250819C4DB6F124D13763C90719B9F8.mp3
+3506420   |- <  320音质 电音   爆爱35秒后的节奏 Who Is It               |mp3  |http://core.aekun.com/upload/2BD95831B9BC3A9C328426E5732EF849.mp3
+3506421   |- < 320音质 Dubstep   网络丧尸 The CATS Net Zombies     |mp3  |http://core.aekun.com/upload/6A9B06D6CDB783322AEDA10A499C4979.mp3
+3506422   |- <  320音质 Dubstep   经典 Where d You Go            |mp3  |http://core.aekun.com/upload/D540919A85BDCACF4B27A152E9D06D97.mp3
+3506423   |Take On Me . 欢快节奏陪你度过阳光周末                         |mp3  |http://core.aekun.com/upload/13508C812A0E95C0080F3878512491EA.mp3
+3506424   |Lifer . 前奏有点007的意思、整体节奏感较强！                       |mp3  |http://core.aekun.com/upload/F8717BFE19C8B8980AC110DA01D12C3F.mp3
+3506425   |Akimirkai trumpai . 沉浸在有点凄美的嗓音中。。。                |mp3  |http://core.aekun.com/upload/A8939172452217328F51BEDDE86D4B0A.mp3
+3506426   |我的家 . 那么清、那么纯！满满的幸福感！                             |mp3  |http://core.aekun.com/upload/53FA1DF7D367A6F0652750C4F602219A.mp3
+3506427   |-< -我们都有问题                                        |mp3  |http://core.aekun.com/upload/C52F19AED096004A7B4DAF56CC79E52E.mp3
+3506428   |来自纯音的节奏 Said The Sky - listen                     |mp3  |http://core.aekun.com/upload/44B0424632FA98C02A6E1009F648A508.mp3
+3506429   |还有不知道这首曲子吗？Rameses B - Moonlight                  |mp3  |http://core.aekun.com/upload/FCAB9F5AD470A25BE2CBB6E1406630A2.mp3
+3506443   |纯音 Apple & Stone - Invisible Moment               |mp3  |http://core.aekun.com/upload/7749DA8E4EAC3FED7D6BE85A9024F808.mp3
+3506444   |这就是生活的方式  Masoud - Fix The Broken (Chillout mix)  |mp3  |http://core.aekun.com/upload/8CB3B5E47D38305A0D9D6193B10AFD7A.mp3
+3506445   |质量 纯音 美轮美奂  ELYZA,Xan - Strings For A Queen (Original Mix)|mp3  |http://core.aekun.com/upload/93AEC9E60DBE0C9747F68066470F89E0.mp3
+3506449   |如此美好  KLYMVX,Cozy - Love Me Like You Do (KLYMVX Edit)|mp3  |http://core.aekun.com/upload/767056CAF182507A8EDA62C691D86ABC.mp3
+3506450   |ST     Let's Go Home-Sinco,Eklo                   |mp3  |http://core.aekun.com/upload/03BB36C67E478FD419277863131378C5.mp3
+3506451   |［ HipHop ］┇ ▌＜秒杀’绝对值得您收藏的歌曲＞▌开车穿越跨海大桥┇            |mp3  |http://core.aekun.com/upload/87811F2361B92B6BC26AD6C6C546F1B4.mp3
+3506452   |Your landing guy is home                          |mp3  |http://core.aekun.com/upload/5262C3FA86BBD46D1F5280DC9B314323.mp3
+3506453   |Lolam . 朗朗上口的调调、心情瞬间好了！                           |mp3  |http://core.aekun.com/upload/C214BF3AAB81EADB875E300F1239D393.mp3
+3506454   |Angel In Blue Jeans . 每遇这种嗓音都是无法抵抗的！              |mp3  |http://core.aekun.com/upload/CCE562387C2AE6E7C2803213EF4095FB.mp3
+3506455   |Encanto . 烦恼滚一边去。。。                               |mp3  |http://core.aekun.com/upload/67B1EEA8BD3AD47F951AEA6CE7A5ADB1.mp3
+3506456   |Break Me . 女孩一开嗓就喜欢上她了！                           |mp3  |http://core.aekun.com/upload/A638F6A18C8AD29B406CD6DBA0B42FE4.mp3
+3506457   |花式电鼓（remix)                                       |mp3  |http://core.aekun.com/upload/B18FC3562EB788D60C8C79A75A4ADA9C.mp3
+3506458   |这么多年了                                             |mp3  |http://core.aekun.com/upload/B50ED82CE32F451E3284D8DAA9C762C5.mp3
+3506459   |Definitely Maybe                                  |mp3  |http://core.aekun.com/upload/FC4C2C8ABCC8F1131488F4E8D7DA41AB.mp3
+3506460   |Roses Dj(X-Mix Urban)                             |mp3  |http://core.aekun.com/upload/566F751203E387492141999E33CB23B5.mp3
+3506461   |摇起来嗨起来                                            |mp3  |http://core.aekun.com/upload/B495A21E4BD6A02B7295301E3DA9B27C.mp3
+3506462   |I need Your Love [APRemix][Feat.Andy pitch        |mp3  |http://core.aekun.com/upload/0ABBA75CF0F1A5C1782DA7402D28F9A4.mp3
+3506463   |勋章                                                |mp3  |http://core.aekun.com/upload/6D5C60D38911C42E8CB23D92B1542C49.mp3
+3506464   |暖心 郁可唯                                            |mp3  |http://core.aekun.com/upload/888334791100115B8F95369010FD7F2C.mp3
+3506465   |谷雨承康 . 气质女神魏菲儿温柔、细腻的魅力最新单曲！                       |mp3  |http://core.aekun.com/upload/9656D1FD88EAD3526A5FDA8CAFC01506.mp3
+3506466   |如果你是落花 . 你曾经盛开怒放，让我轻轻的带你回家！                       |mp3  |http://core.aekun.com/upload/844DA0A8C0BDDB7CCEEAEA7ACDA55708.mp3
+3506467   |Despacito . 我不放再放过这样的嗓音与节奏了！                      |mp3  |http://core.aekun.com/upload/462049B090BE3BEA18FFF0C3C3B9BA90.mp3
+3506468   |La Fortuna . 男女温暖深情对唱，调调真的很对味！                    |mp3  |http://core.aekun.com/upload/C8D1ABB546143E6572F07A0C0250CEEB.mp3
+3506469   |Through Space And Bass                            |mp3  |http://core.aekun.com/upload/11138498159E3DE067E91624377A0D19.mp3
+3506470   |- ＜  晚上聽了N遍 失眠 ＞＞繾 綣   Vise Fenesin               |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NDg=
+3506471   |-<   强势推荐 电流强袭    萨克斯HOUSE  刺激你的听觉                |mp3  |http://core.aekun.com/upload/FA7C20627D298AE9C9BEF9247BA30B10.mp3
+3506472   |-  < 循环了一整天 终于可以推了 喜欢的朋友不要错过  stand up            |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NDY=
+3506473   |-  ＜ 电音 dubstep ＞ Do I See Color (Big Gigantic Remix)|mp3  |http://core.aekun.com/upload/EAF9CAA5201B3EE0467A6089EB39D7D8.mp3
+3506474   |-  ＜ 电音 dubstep ＞ Lullaby Song                    |mp3  |http://core.aekun.com/upload/5D0BBCE8C0AE75EC6BDFC052AAF26613.mp3
+3506475   |慢摇纯音 Worakls - Salzburg (Original Mix)            |mp3  |http://core.aekun.com/upload/5ADCBD364779FD95CF1052A1B5A35F6C.mp3
+3506476   |伤害型节奏（怀恋啊）Indietro - Il  Destino  ( Guitar  Piano  Mix )|mp3  |http://core.aekun.com/upload/41295A905A3F1F541C7FEFB3F5A9CD00.mp3
+3506477   |好节奏都不需要多说 Indietro - Ciao Bella - Original Club Mix|mp3  |http://core.aekun.com/upload/58F2FD8B52081D206A9F8E83FDC0DBCD.mp3
+3506478   |舞曲  SURISAN - Where Have You Gone                 |mp3  |http://core.aekun.com/upload/A9FB3BB695D9DFB8372E2539BE2EE344.mp3
+3506479   |舞曲 3 Sud Est - Te Plac (Extended Version)         |mp3  |http://core.aekun.com/upload/5293D0B84EE6F96CC0C748EA1F2BC28D.mp3
+3506480   |曾经疯狂过的曲  Traxx - Burn This City (Money G Remix)   |mp3  |http://core.aekun.com/upload/2055260CA1A50F14107CEB5E3AE0D65E.mp3
+3506481   |舞曲Brothers - Dance now                            |mp3  |http://core.aekun.com/upload/B9D7B40CC00FA86C1F9A0841779CBA40.mp3
+3506482   | Jennifer Lopez - on the floor                    |mp3  |http://core.aekun.com/upload/F1ACE6DAE974E0B7F5FC82EC9092AB94.mp3
+3506483   |那些年的疯狂Samantha Mumba - Always Come Back To Your Love|mp3  |http://core.aekun.com/upload/DD1896745E6733A4138BD92751EC7AE9.mp3
+3506484   |只要嗨 你管它什么曲 Elize - Sexual Healing                 |mp3  |http://core.aekun.com/upload/F99069010D0451D289B7D450B2DC0938.mp3
+3506485   |那些年只知道玩飞车没能好好欣赏的好歌t.A.T.u. - Loves Me Not         |mp3  |http://core.aekun.com/upload/E8651DD5F9EF70D4F826C9DBC1574A1A.mp3
+3506486   |电音  Hold Me Tonight (Whirlmond Remix)             |mp3  |http://core.aekun.com/upload/281863EB82C4EB3D8C67A71CA4E292F7.mp3
+3506487   |孙丹菲 - ??? ???                                     |mp3  |http://core.aekun.com/upload/EA980DD36201DF6C06C7DCB919D19B8B.mp3
+3506488   |纯节奏  Tobu - Morning Energy                        |mp3  |http://core.aekun.com/upload/F440E5A8179EED9A3F53D0011B3AF198.mp3
+3506489   |抖腿节奏 错过我损失咯？Wayward Brothers - So Good (Dub Mix)  |mp3  |http://core.aekun.com/upload/9E53F2006264E6401DCB4677E1943A2A.mp3
+3506490   |刺激你的耳朵 Adam Sobiech - Together (Original Mix)     |mp3  |http://core.aekun.com/upload/8C11CE1942654AFA2ABAE2EA7CCA657A.mp3
+3506491   |纯音  轻音 节奏 福利 Nilotpala - Дорога Перемен           |mp3  |http://core.aekun.com/upload/616772280D2989D2618B688C1E979CA7.mp3
+3506492   |驰放    Jacoo - The Last String                     |mp3  |http://core.aekun.com/upload/9B8F18EF30041980CD89D1020DB516D5.mp3
+3506493   |Lady Gaga - The Cure (Prod. by Nick Monson)       |mp3  |http://core.aekun.com/upload/5BF233B058243D6662302C300795513E.mp3
+3506494   |Money Money                                       |mp3  |http://core.aekun.com/upload/7EEA50D089C440F51B604E5815E21703.mp3
+3506495   |Party Shaker Dj - R.i.o MjHunter Kelvin           |mp3  |http://core.aekun.com/upload/A2D43524A8439F7AE0A666301E7BD5EE.mp3
+3506496   |苹果改版                                              |mp3  |http://core.aekun.com/upload/00D0206B12CBEE79E424AA90FF59372B.mp3
+3506497   |Sofi de la Torre - That Isn't You                 |mp3  |http://core.aekun.com/upload/A3BF6707FFAFDC9E9863534C1D9CA809.mp3
+3506498   |我的我自己                                             |mp3  |http://core.aekun.com/upload/18A306C87F2DCFD339BAA122815E1859.mp3
+3506499   |Veronica Maggio - Ingenting Kvar                  |mp3  |http://core.aekun.com/upload/86788FFAEC32F680D62350B8F234531E.mp3
+3506500   |迷梦                                                |mp3  |http://core.aekun.com/upload/0CEFB395B7612E8F228FAB6A3AE563E1.mp3
+3506501   |大家都听过  Baptiste Giabiconi - New York              |mp3  |http://core.aekun.com/upload/1D62C363D96975E16C9B977B4E9A4575.mp3
+3506502   | Bobby Tinsley - Missing You                      |mp3  |http://core.aekun.com/upload/8EC6974D9732EF0DF5EE3B53E92988F2.mp3
+3506503   |Maksim - Знаешь ли ты                             |mp3  |http://core.aekun.com/upload/59B877711E2CF61AD2982FE82F2080AD.mp3
+3506510   |超好听女声节奏很强大  jessica mauboy-Because                |mp3  |http://core.aekun.com/upload/3031B2AD8322D99392722E384BC61F6B.mp3
+3506511   |现场版，好想去看看 Hillsong Young And Free - Wake          |mp3  |http://core.aekun.com/upload/FE816B57EA93E177148DC18CE0E7AA8A.mp3
+3506512   |超好听女声节奏很强大  Kari Kimmel - Fingerprints            |mp3  |http://core.aekun.com/upload/BAA73636170E1B54C8E75080FB711CE2.mp3
+3506513   |Anders Fernette - We're On You                    |mp3  |http://core.aekun.com/upload/0C9B59E4896E95580C33F20757F8FD88.mp3
+3506514   |Kate Havnevik - So：Lo                             |mp3  |http://core.aekun.com/upload/460F9C67E768FD7E3A6029533549622C.mp3
+3506515   |优质钢琴 妙曼的鼓点女声   Baby Soul -Release The Pain        |mp3  |http://core.aekun.com/upload/486F288B54761BEF17B1537DE38CFB53.mp3
+3506516   |调皮女声 Bonnie McKee-American Girl                   |mp3  |http://core.aekun.com/upload/BF29B99206982B5977069F19ED9DFA83.mp3
+3506517   |说这个是经典 没人反对吧 Lady Antebellum - Need You Now       |mp3  |http://core.aekun.com/upload/D38B369D3B027DC0FF335166C8AE3A68.mp3
+3506518   |另类调调 推荐的 第一首 up up up    Charlee - Boy Like You (Single Version)|mp3  |http://core.aekun.com/upload/A923182C9979A369F9FEC914FE921921.mp3
+3506519   |很有感觉的女声  Celeste - What It Is                     |mp3  |http://core.aekun.com/upload/1BDB92B1C53947C6FB3F507BEEB67609.mp3
+3506520   |前奏足以秒杀 钢琴鼓点仲能打动我心 So Incredible                   |mp3  |http://core.aekun.com/upload/42CBF02DF16FD1BBC0435523E1FBB6FB.mp3
+3506521   |罗马尼亚可爱小女孩现场 超级可爱 -  Cleopatra Stratan             |mp3  |http://core.aekun.com/upload/16C18EF16CB075EF97B1058113A474D9.mp3
+3506522   |Chris Rene - Young Homie                          |mp3  |http://core.aekun.com/upload/669C62B309AD161ADB69F47C71A99B51.mp3
+3506523   |Ellie Goulding - Under Control                    |mp3  |http://core.aekun.com/upload/08BBB2326BD533D2F02B762E7730EE6D.mp3
+3506524   |电音来袭   Klave - EuroDancer                         |mp3  |http://core.aekun.com/upload/A70C7F45C17BCD6FECB4EC610CF9594F.mp3
+3506525   |Danika Rose - Do You Believe In Love              |mp3  |http://core.aekun.com/upload/9DC51718EF91C4057E90030A95D0363F.mp3
+3506526   |Edward Maya - Love Story                          |mp3  |http://core.aekun.com/upload/B61A35E11F2A885C320E48BD24C91B6D.mp3
+3506527   |Drake-Hotline Bling                               |mp3  |http://core.aekun.com/upload/C62D3A0AAB6DA4145BE38832FAEFA45F.mp3
+3506528   |D'london - Wishing For You                        |mp3  |http://core.aekun.com/upload/7C72B9BEA777840157A791BA741A76D1.mp3
+3506529   |史诗级音乐  世界音乐  K.S. Project - Snowy Lullaby (Original Mix)|mp3  |http://core.aekun.com/upload/628CC3512698C69F2672208CB4F9E791.mp3
+3506530   |这是一个开始幸福，结局悲伤的故事  Eddie - Late Autumn             |mp3  |http://core.aekun.com/upload/09EA751828D3F9DD587C27732F41C643.mp3
+3506531   |当你走的时候我哭了 . 这个版本在车内的音效可以唱哭你！                      |mp3  |http://core.aekun.com/upload/8E1FD7847592A2546BBDE9BE9713C1C1.mp3
+3506540   |La Miki . 古巴雷击顿音乐、是时候尝试新的音乐风格了！                   |mp3  |http://core.aekun.com/upload/BF9E1EFF8A9D31B9FA56667BF3558C77.mp3
+3506541   |探索外星  E-Mantra - Prelude                          |mp3  |http://core.aekun.com/upload/8C1BA07C044A6520159CB701CE1403BF.mp3
+3506542   |Big Boy . 好久未遇低沉感伤的磁性声音了。。。                       |mp3  |http://core.aekun.com/upload/C23535A8107F1659536B273D28DCDBAF.mp3
+3506543   |节奏  Ti?sto - Red Lights (Radio Edit)              |mp3  |http://core.aekun.com/upload/7FB3979125133D03BB58FD149D96BD8E.mp3
+3506544   |中国风电音 姓徐的，干得漂亮       徐梦圆 - China-X                |mp3  |http://core.aekun.com/upload/646FEBB7A0D64F8D3DB0776BEB1F509D.mp3
+3506545   |2017年精选宝马X6车载高音质百听不腻伤感女声                          |mp3  |http://core.aekun.com/upload/240ED503B27202050ADBDFA95369C847.mp3
+3506546   |寂静岭  山岡晃 - Promise                                |mp3  |http://core.aekun.com/upload/24B893C2D1262CE0243633DEA645D534.mp3
+3506547   |嗨爆了  Mango,Andre Frauenstein - Away From Here (Dub Mix)|mp3  |http://core.aekun.com/upload/4FAB04305AC030ED759508F7CD800686.mp3
+3506548   |好像和你在一起                                           |mp3  |http://core.aekun.com/upload/DB175FDACD7DBB8E6E03A5674923DB56.mp3
+3506551   |不错的节奏 Roald Velden - Watching The Sunset (AKI Amano Remix)|mp3  |http://core.aekun.com/upload/5CE9119EE5A9D1BC7D4431F2CEE79A6B.mp3
+3506552   |节奏   Zuubi - Far Apart                            |mp3  |http://core.aekun.com/upload/8E419F88C7B16CBDD46696F44115F6D1.mp3
+3506553   |经常出现在各大视频里的背景音乐  Zuubi - Far Apart                |mp3  |http://core.aekun.com/upload/EF9F21A01265838F327EE211CDDFA94C.mp3
+3506554   |好曲就不多介绍了 Christophe Lebled - Alpha                |mp3  |http://core.aekun.com/upload/5BB9C96A2E0EC351275F137D8006E509.mp3
+3506555   |Mario – Bed Love (Prod by Young Yonny)            |mp3  |http://core.aekun.com/upload/01B6865FD78D9E2F6E2D72F96F8B0524.mp3
+3506556   |女生节奏 Outside-Ellie Goulding                       |mp3  |http://core.aekun.com/upload/6F921C9263AEB3DBA8D0C60EBD6023AF.mp3
+3506557   |听到55秒 你会喜欢的  Loreen - Everytime                   |mp3  |http://core.aekun.com/upload/7B9283527705763697DC96BA2A6C9EF0.mp3
+3506558   |- < Breaking My Heart     慵懒舒服的女声                 |mp3  |https://res.wx.qq.com/voice/getvoice?mediaid=MzU1NzAwNjM5M18xMDAwMDM3NDQ=
+3506559   |- < Ｈot Ｍusic    当年神曲                             |mp3  |http://core.aekun.com/upload/8F40FBF36632F11CFD559E7F86421890.mp3
+3506560   |-  单曲Remix   强劲电流女声 很赞的电音 这个也比较老了                 |mp3  |http://core.aekun.com/upload/DD5C3B3CCCB5B0C5B6AF0537BBF93C69.mp3
+3506561   |- < 酒吧 经典慢摇  值得收藏                                 |mp3  |http://core.aekun.com/upload/48AE3D327C659A7DC40B0C69F21C4F83.mp3
+3506562   |粤语十大金曲串烧--声声入耳、丝丝绕心！                              |mp3  |http://core.aekun.com/upload/B0E95D8EF5B6167E95E5BBCF26E0A0DB.mp3
+3506563   |穿透耳朵的电音 Salzburg (Original Mix)-Worakls           |mp3  |http://core.aekun.com/upload/8DA64AE9DE812B82EB6218BE90BE9739.mp3
+3506564   |能让心情美丽的Horses     Godspeed You (Charming Horses Remix)-Francesco Rossi|mp3  |http://core.aekun.com/upload/974AA7F527940CA7E11C24417FF311AB.mp3
