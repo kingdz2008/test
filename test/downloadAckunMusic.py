@@ -16,7 +16,6 @@ def urlOpenGetHeaders(url):
     html = page.getheader('Content-Type')
     return html
 
-
 def urlOpen(url):
     req = urllib.request.Request(url)
     req.add_header('User-Agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36')
@@ -56,7 +55,7 @@ def getSongRealUrl(songidVal):
 
 def writeStrToFile(writeStr):
     print(writeStr)
-    with open("downurl.txt","a") as f:
+    with open("downurl.txt","a",encoding="UTF-8") as f:
         f.write(writeStr)
         f.write("\n")
 
@@ -66,9 +65,12 @@ def downloadMusicMain():
     pKey = f.read()
     f.close()
 
-    songIdInt = 3506344
+    songIdInt = 3507101
 # 3505251			|10			|2015084685			|▌▌Chillout ▌▌Losing Ground Michael FK & Groundfold  -----3505251.mp3
     while(True):
+        if songIdInt > 3509585:
+            break
+        
         time.sleep(10)
         try:
             urlOpen("http://www.aekun.com/song/" + str(songIdInt))
@@ -95,12 +97,19 @@ def downloadMusicMain():
             print(status)
             break
         downUrl = ret['data']
-        if isinstance(downUrl,str) and downUrl.strip() == '':
-            html = urlOpen("http://www.aekun.com/song/" + str(songIdInt)).decode('utf-8')
-            #print(html)
+        if isinstance(downUrl,str):
+            if downUrl.strip() == '':
+                html = urlOpen("http://www.aekun.com/song/" + str(songIdInt)).decode('utf-8')
+                continue
+        elif isinstance(downUrl,dict):
+            pass
+        else:
             continue
+
         #print("[",downUrl,"]")
         downUrl = ret['data']['url']
+        if downUrl is None:
+            continue
         if downUrl.strip() == "":
             continue
         #print(downUrl)
