@@ -80,7 +80,7 @@ def downloadMusicMain():
     pKey = f.read()
     f.close()
 
-    songIdInt = 3509726
+    songIdInt = 3509819
     songIdInt = songIdInt + 1
     maxSong = getMaxSongs()
     print("start from:%s,end with:%s"%(songIdInt,maxSong))
