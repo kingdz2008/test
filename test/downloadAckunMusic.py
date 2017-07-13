@@ -73,6 +73,18 @@ def getMaxSongs():
     result = int(html[a:b])
     return result
 
+# 获取目前已经获得的最大曲目编号
+def getNowSongId(songIdInt):
+    f = open("downurl.txt","r",encoding="UTF-8")
+    lines = f.readlines() #读取全部内容
+    for line in lines:
+        if line.find('|')!=-1:
+            line = line.split("|")
+            line = int(line[0])
+            if line > songIdInt:
+                songIdInt = line
+    return songIdInt
+
 # 下载歌曲的主程序部分
 def downloadMusicMain():
     # 获取pKey
@@ -80,7 +92,8 @@ def downloadMusicMain():
     pKey = f.read()
     f.close()
 
-    songIdInt = 3509819
+    songIdInt = 3509719
+    songIdInt = getNowSongId(songIdInt)
     songIdInt = songIdInt + 1
     maxSong = getMaxSongs()
     print("start from:%s,end with:%s"%(songIdInt,maxSong))
