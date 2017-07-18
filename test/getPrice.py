@@ -53,14 +53,14 @@ def test():
     print(data)
 
 def getPrice():
-    search = "spring boot"
+    search = "sql 优化"
     print("查询的关键字：" + search + "\n")
     search = urllib.parse.quote(search)
     #test()
     
-    #getJDPrice(search)
-    #getDangDangPrice(search)
-    getAmazonPrice(search)
+    getJDPrice(search)
+    getDangDangPrice(search)
+    #getAmazonPrice(search)
 
 if __name__ == '__main__':
     getPrice()
