@@ -8,6 +8,7 @@ import json
 import urllib
 import time
 import random
+import datetime
 
 # 获得响应头信息中的Content-Type域
 def urlOpenGetHeaders(url):
@@ -153,6 +154,10 @@ def downloadMusicMain():
         writeStr = "%-10s|%-50s|%-5s|%s"%(songIdInt,songName,post,downUrl)
         writeStrToFile(writeStr)
         songIdInt = songIdInt + 1
+
+    now = datetime.datetime.now()
+    now = now.strftime('%Y-%m-%d %H:%M:%S')
+    writeStrToFile(str(now) + '\t\t\t' + str(maxSong))
 
 if __name__ == '__main__':
     downloadMusicMain()
