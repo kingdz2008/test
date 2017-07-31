@@ -1,3 +1,55 @@
-3510102   |我不须要听懂歌词...只需要跟着抖腿就够了!                            |mp3  |http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501120593171.mp3
-3510103   |Altynai可以让你单曲循环一整夜的泛西欧音乐                          |mp3  |http://us.aekun.com/upload/55BB31E21136692DE8A1017B8AF69A7B.mp3
-2017-07-27 10:06:38			3510103
+3510105		|慢摇走一波 喜欢的拿走			|http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501124415611.mp3
+3510106		|慢摇走一波 喜欢的拿走			|http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501124332377.mp3
+3510107		|慢摇走一波 喜欢的拿走			|http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501124315309.mp3
+3510108		|慢摇走一波 喜欢的拿走			|http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501124129038.mp3
+3510109		|慢摇走一波 喜欢的拿走			|http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501124090298.mp3
+3510110		|慢摇走一波 喜欢的拿走			|http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501124048891.mp3
+3510111		|慢摇走一波 喜欢的拿走			|http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501125506306.mp3
+3510112		|FingerSmith					|http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501129418382.mp3
+3510113		|Lana Del Rey - Lust For Life	|http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501147264769.mp3
+3510114		|说不上爱就别说谎				|http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501147236337.mp3
+3510115		|我在这里等你很久				|http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501147210515.mp3
+3510116		|【小智推荐】 一百万个可能【第6首】		|http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501234823737.mp3
+3510117		|心愿--单纯的声音  理想总是那么美好  20170727		|http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501203885295.mp3
+3510118		|〈 320音质 〉▌▌真的很好听 谁知道我们该去向何处		|http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501203856086.mp3
+3510119		|超好听 节奏can you feel my world					|http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501203803036.mp3
+3510120		|-Electronic (沦陷) 品味    不复返					|http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501234755764.mp3
+3510121		|-  Es Rappelt   大爱前奏 五秒带走它 叮咚女嗓嘎嘣脆	|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501234691400.mp3"
+3510122		|-  Es Rappelt   大爱前奏 五秒带走它 叮咚女嗓嘎嘣脆	|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501234660322.mp3"
+3510123		|-ゝ   ＜什么也不说 先听歌＞  好听你再点赞			|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501234632238.mp3"
+3510124		|Yellow 						|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501240238001.mp3"
+3510125		|自己喜欢的一首					|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501240197656.mp3"
+3510126		|异域女歌						|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501240186912.mp3"
+3510127		|朴树有力的潮歌					|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501240176348.mp3"
+3510128		|爱丽丝快跑_Beethoven Virus_节奏非常棒的小提琴，大气开场		|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501240165970.mp3"
+3510129		|节奏有点儿赶脚哦				|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501240153579.mp3"
+3510130		|来首越南侠骨柔情			|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501240140969.mp3"
+3510131		|Years & Years - Shine_清爽节奏啊，这声音挺不错		|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501240117009.mp3"
+3510132		|三个人的时光--好听的轻音乐  浓浓的中国风  20170728		|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501257466965.mp3"
+3510133		|過ち			|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501389578142.mp3"
+3510134		|★爆炸 混沌不得见、天与地相连、何以创世纪、唯有二次元！寄生兽TV主题曲 Fear, and Loathing in Las Vegas MP3最高音质320k	|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501389411090.mp3"
+3510135		|极品越鼓女声开声即秒Ketkin		|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501389265307.mp3"
+3510136		|前奏秒杀唯爱小语循环女声		|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501389194327.mp3"
+3510137		|★灵魂BGM 史诗SSS级BGM 顶级大师之作、Thomas Bergersen - Empire of Angels MP3最高音质320k	|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501389089985.mp3"
+3510138		|苏格兰情调			|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501388945172.mp3"
+3510139		|别丢下我不管--好听的女声  优美的旋律  20170729		|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501388879487.mp3"
+3510140		|不想			|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501388762273.mp3"
+3510141		|男生开场瞬间被秒		|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501388638821.mp3"
+3510142		|Макsим - Сон			|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501388468874.mp3"
+3510143		|【儿歌】- 诶呦！这大象画的真好看-小跳蛙		|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501388414804.mp3"
+3510144		|Lauren Evans - Break Of Day			|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501388311289.mp3"
+3510145		|Varsity – Bounce Like That				|http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501388177147.mp3
+3510146		|Pierre Medor – When I Met Ya		|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501388126299.mp3"
+3510147		|Jimmy Burney - Missing You			|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501388057482.mp3"
+3510148		|J. Randall - Secret Love Affair (written by Claude Kelly)		|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501388015612.mp3"
+3510149		|Drew Ryan Scott – Everyday Superstar (Jedward Demo)			|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501387969422.mp3"
+3510150		|简单的节奏，初恋的旋律！				|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501391064490.mp3"
+3510151		|只需5秒你就爱上这节奏。				|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501392335966.mp3"
+3510152		|夜店熟悉的旋律				|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501392026687.mp3"
+3510153		|第一秒就俘虏你的耳朵		|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501463251091.mp3"
+3510154		|Dominion史诗级纯音乐		|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501463238290.mp3"
+3510155		|▌▌▌＜极品纯音＞ 听到53秒毫不犹豫加入收藏 大气节奏		|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501463124264.mp3"
+3510156		|中文  女声 在一瞬间丶有一百万个可能		|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501463032263.mp3"
+3510157		|爱的罗曼史--入门吉他曲  想起了大学学吉他的时光  好听  20170730		|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501462900139.mp3"
+3510158		|陈琳－爱就爱了					|"http://dxvgtnpp9bjiz.cloudfront.net/record/5870e892246594cc3494cc82/record/1501462852258.mp3"
+2017-07-31 10:48:22			3510158
