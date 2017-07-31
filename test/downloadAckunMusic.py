@@ -9,6 +9,7 @@ import urllib
 import time
 import random
 import datetime
+import hashlib
 
 # 获得响应头信息中的Content-Type域
 def urlOpenGetHeaders(url):
@@ -98,8 +99,17 @@ def downloadMusicMain():
     songIdInt = songIdInt + 1
     maxSong = getMaxSongs()
     print("start from:%s,end with:%s"%(songIdInt,maxSong))
+    t = time.time()
+    t = int(round(t * 1000))
+    print(t)
+    m2 = hashlib.md5()
+    src = str(songIdInt) + "|" + str(t)
+    print(src)
+    m2.update(src.encode("utf8"))
+    t = m2.hexdigest()
+    print(t)
     # 3505251			|10			|2015084685			|▌▌Chillout ▌▌Losing Ground Michael FK & Groundfold  -----3505251.mp3
-    while(True):
+    while(False):
         if songIdInt > maxSong:
             break
         
