@@ -52,10 +52,12 @@ def getPostStr(pKey, song_id):
     return base64.b64encode(encry)
 
 # 获取歌曲的实际的url
-def getSongRealUrl(songidVal):
+def getSongRealUrl(songidVal,timeVal,md5Val):
     url = 'http://www.aekun.com/api/getMusicbyid/'
     r = requests.post(url, {
-        'songid': songidVal
+        'songid': songidVal,
+        't':timeVal,
+        'sign':md5Val
     })
     return r.content
 
@@ -99,15 +101,6 @@ def downloadMusicMain():
     songIdInt = songIdInt + 1
     maxSong = getMaxSongs()
     print("start from:%s,end with:%s"%(songIdInt,maxSong))
-    t = time.time()
-    t = int(round(t * 1000))
-    print(t)
-    m2 = hashlib.md5()
-    src = str(songIdInt) + "|" + str(t)
-    print(src)
-    m2.update(src.encode("utf8"))
-    t = m2.hexdigest()
-    print(t)
     # 3505251			|10			|2015084685			|▌▌Chillout ▌▌Losing Ground Michael FK & Groundfold  -----3505251.mp3
     while(False):
         if songIdInt > maxSong:
@@ -121,9 +114,25 @@ def downloadMusicMain():
         songId = str(songIdInt).encode('utf-8')
         print(songId)
         songidVal = getPostStr(pKey, songId)
+        songidVal = songidVal.decode('utf-8')
+
+        t = time.time()
+        t = int(round(t * 1000))
+        timeVal = getPostStr(pKey,str(t).encode('utf-8'))
+        timeVal = timeVal.decode('utf-8')
+
+        m2 = hashlib.md5()
+        src = str(songIdInt) + "|" + str(t)
+        m2.update(src.encode("utf8"))
+        t = m2.hexdigest()
+        md5Val = getPostStr(pKey,str(t).encode('utf-8'))
+        md5Val = md5Val.decode('utf-8')
         
         try:
-            ret = getSongRealUrl(songidVal)
+            print(songidVal)
+            print(timeVal)
+            print(md5Val)
+            ret = getSongRealUrl(songidVal,timeVal,md5Val)
         except (ConnectionError , ConnectionResetError):
             print("ConnectionError")
             time.sleep(3)
