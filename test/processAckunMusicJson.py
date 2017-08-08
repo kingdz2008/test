@@ -56,7 +56,7 @@ def processAckunJson():
 
     print(minId)
     print(maxId)
-    for i in range(maxId + 1,minId + 30):
+    for i in range(maxId + 1,minId + 50):
         with open("ackunjson.txt","a") as f:
             f.write(str(i) + " |")
             f.write("\n")
